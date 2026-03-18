@@ -106,6 +106,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 - Heuristic consumer choice models
 - Institutional mechanism design and policy rules
 - **Micro/GE**: "Existence of an Equilibrium for a Competitive Economy", **`Econometrica 1954.07`**. [[Paper](https://doi.org/10.2307/1907353)]
+- **Micro/NE**: "Non-Cooperative Games", **`Econometrica 1951.09`**. [[Paper](https://doi.org/10.2307/1969529)]
 
 ### 📊 Feature- and Data-Driven Economic Modeling
 - Econometric models
