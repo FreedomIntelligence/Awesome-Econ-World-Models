@@ -105,6 +105,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 - Rule-based market simulation
 - Heuristic consumer choice models
 - Institutional mechanism design and policy rules
+- **Micro/GE**: "Existence of an Equilibrium for a Competitive Economy", **`Econometrica 1954.07`**. [[Paper](https://doi.org/10.2307/1907353)]
 
 ### 📊 Feature- and Data-Driven Economic Modeling
 - Econometric models
