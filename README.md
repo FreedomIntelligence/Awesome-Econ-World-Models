@@ -118,16 +118,6 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **CGE**: "Applied General-Equilibrium Models of Taxation and International Trade: An Introduction and Survey", **`JEL 1984.09`**. [[Paper](https://www.jstor.org/stable/2725306)]
 - **DSGE**: "Shocks and Frictions in US Business Cycles: A Bayesian DSGE Approach", **`AER 2007.06`**. [[Paper](https://doi.org/10.1257/aer.97.3.586)]
 
-#### Agent-Based Modeling (ABM)
-- **First Modern ABM**: "Investment rules, margin, and market volatility" **`JPM 1989.04`**. [[Paper](https://doi.org/10.3905/jpm.1989.409233)]
-- **ABM Financial Markets Survey**: "Agent-Based Models of Financial Markets" **`arXiv 2007.01`**. [[Paper](https://arxiv.org/abs/physics/0701140)]
-- **SABCEMM**: "Simulation of Stylized Facts in Agent-Based Computational Economic Market Models" **`arXiv 2018.11`**. [[Paper](https://arxiv.org/abs/1812.02726)]
-- **Bounded Rationality ABM**: "Modeling the Out-of-Equilibrium Dynamics of Bounded Rationality and Economic Constraints" **`arXiv 2021.06`**. [[Paper](https://arxiv.org/abs/2106.00483)]
-- **Flash Crash ABM**: "High-Frequency Financial Market Simulation and Flash Crash Scenarios Analysis: An Agent-Based Modelling Approach" **`arXiv 2022.08`**. [[Paper](https://arxiv.org/abs/2208.13654)]
-- **ABIDES-Economist**: "ABIDES-Economist: Agent-Based Simulator of Economic Systems with Learning Agents" **`arXiv 2024.02`**. [[Paper](https://arxiv.org/abs/2402.09563)]
-- **Social Media Bubble ABM**: "Simulation of Social Media-Driven Bubble Formation in Financial Markets using an Agent-Based Model with Hierarchical Influence Network" **`arXiv 2024.09`**. [[Paper](https://arxiv.org/abs/2409.00742)]
-- **Prediction Market Manipulation**: "Manipulation in Prediction Markets: An Agent-Based Modeling Experiment" **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2601.20452)]
-
 ### 📊 Feature- and Data-Driven Economic Modeling
 - Econometric models
 - Machine learning for economic and financial prediction
@@ -144,6 +134,14 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **Agent-Based Computational Economics: Growing Economies from the Bottom Up**. Leigh Tesfatsion, 2002.
 - **Handbook of Computational Economics, Vol. 2: Agent-Based Computational Economics**. Tesfatsion and Judd, 2006.
 - **Foundations of Complexity Economics**. W. Brian Arthur, 2021.
+- **First Modern ABM**: "Investment rules, margin, and market volatility" **`JPM 1989.04`**. [[Paper](https://doi.org/10.3905/jpm.1989.409233)]
+- **ABM Financial Markets Survey**: "Agent-Based Models of Financial Markets" **`arXiv 2007.01`**. [[Paper](https://arxiv.org/abs/physics/0701140)]
+- **SABCEMM**: "Simulation of Stylized Facts in Agent-Based Computational Economic Market Models" **`arXiv 2018.11`**. [[Paper](https://arxiv.org/abs/1812.02726)]
+- **Bounded Rationality ABM**: "Modeling the Out-of-Equilibrium Dynamics of Bounded Rationality and Economic Constraints" **`arXiv 2021.06`**. [[Paper](https://arxiv.org/abs/2106.00483)]
+- **Flash Crash ABM**: "High-Frequency Financial Market Simulation and Flash Crash Scenarios Analysis: An Agent-Based Modelling Approach" **`arXiv 2022.08`**. [[Paper](https://arxiv.org/abs/2208.13654)]
+- **ABIDES-Economist**: "ABIDES-Economist: Agent-Based Simulator of Economic Systems with Learning Agents" **`arXiv 2024.02`**. [[Paper](https://arxiv.org/abs/2402.09563)]
+- **Social Media Bubble ABM**: "Simulation of Social Media-Driven Bubble Formation in Financial Markets using an Agent-Based Model with Hierarchical Influence Network" **`arXiv 2024.09`**. [[Paper](https://arxiv.org/abs/2409.00742)]
+- **Prediction Market Manipulation**: "Manipulation in Prediction Markets: An Agent-Based Modeling Experiment" **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2601.20452)]
 
 #### LLM-Based Multi-Agent Economic Simulation
 - **A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis**. 2025.
