@@ -106,11 +106,11 @@ This section traces the evolution of economic modeling from rules and data to ag
 - Heuristic consumer choice models
 - Institutional mechanism design and policy rules
 
-   #### Microeconomics
+ #### Microeconomics
 - **General-Equilibrium**: "Existence of an Equilibrium for a Competitive Economy", **`Econometrica 1954.07`**. [[Paper](https://doi.org/10.2307/1907353)]
 - **Nash-Equilibrium**: "Non-Cooperative Games", **`Econometrica 1951.09`**. [[Paper](https://doi.org/10.2307/1969529)]
 
-#### Agent-Based Modeling (ABM)
+ #### Agent-Based Modeling (ABM)
 - **ABM Financial Markets Survey**: "Agent-Based Models of Financial Markets" **`arXiv 2007.01`**. [[Paper](https://arxiv.org/abs/physics/0701140)]
 - **SABCEMM**: "Simulation of Stylized Facts in Agent-Based Computational Economic Market Models" **`arXiv 2018.11`**. [[Paper](https://arxiv.org/abs/1812.02726)]
 - **Bounded Rationality ABM**: "Modeling the Out-of-Equilibrium Dynamics of Bounded Rationality and Economic Constraints" **`arXiv 2021.06`**. [[Paper](https://arxiv.org/abs/2106.00483)]
