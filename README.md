@@ -106,11 +106,20 @@ This section traces the evolution of economic modeling from rules and data to ag
 - Heuristic consumer choice models
 - Institutional mechanism design and policy rules
 
-  #### Microeconomics
-- **General-Equilibrium**: "Existence of an Equilibrium for a Competitive Economy", **`Econometrica 1954.07`**. [[Paper](https://doi.org/10.2307/1907353)]
-- **Nash-Equilibrium**: "Non-Cooperative Games", **`Econometrica 1951.09`**. [[Paper](https://doi.org/10.2307/1969529)]
+#### Microeconomics
+- **General Equilibrium**: "Existence of an Equilibrium for a Competitive Economy", **`Econometrica 1954.07`**. [[Paper](https://doi.org/10.2307/1907353)]
+- **Nash Equilibrium**: "Non-Cooperative Games", **`Econometrica 1951.09`**. [[Paper](https://doi.org/10.2307/1969529)]
 
-  #### Agent-Based Modeling (ABM)
+#### Macroeconomics
+- **Neoclassical Synthesis (IS-LM)**: "Mr. Keynes and the "Classics"; A Suggested Interpretation", **`Econometrica 1937.04`**. [[Paper](https://doi.org/10.2307/1907242)]
+- **New Classical (RBC)**: "Time to Build and Aggregate Fluctuations", **`Econometrica 1982.11`**. [[Paper](https://doi.org/10.2307/1913386)]
+
+#### Micro+Macro
+- **CGE**: "Applied General-Equilibrium Models of Taxation and International Trade: An Introduction and Survey", **`JEL 1984.09`**. [[Paper](https://www.jstor.org/stable/2725306)]
+- **DSGE**: "Shocks and Frictions in US Business Cycles: A Bayesian DSGE Approach", **`AER 2007.06`**. [[Paper](https://doi.org/10.1257/aer.97.3.586)]
+
+#### Agent-Based Modeling (ABM)
+- **First Modern ABM**: "Investment rules, margin, and market volatility" **`JPM 1989.04`**. [[Paper](https://doi.org/10.3905/jpm.1989.409233)]
 - **ABM Financial Markets Survey**: "Agent-Based Models of Financial Markets" **`arXiv 2007.01`**. [[Paper](https://arxiv.org/abs/physics/0701140)]
 - **SABCEMM**: "Simulation of Stylized Facts in Agent-Based Computational Economic Market Models" **`arXiv 2018.11`**. [[Paper](https://arxiv.org/abs/1812.02726)]
 - **Bounded Rationality ABM**: "Modeling the Out-of-Equilibrium Dynamics of Bounded Rationality and Economic Constraints" **`arXiv 2021.06`**. [[Paper](https://arxiv.org/abs/2106.00483)]
