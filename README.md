@@ -106,15 +106,15 @@ This section traces the evolution of economic modeling from rules and data to ag
 - Heuristic consumer choice models
 - Institutional mechanism design and policy rules
 
-#### Microeconomics
+  #### Microeconomics
 - **General Equilibrium**: "Existence of an Equilibrium for a Competitive Economy", **`Econometrica 1954.07`**. [[Paper](https://doi.org/10.2307/1907353)]
 - **Nash Equilibrium**: "Non-Cooperative Games", **`Econometrica 1951.09`**. [[Paper](https://doi.org/10.2307/1969529)]
 
-#### Macroeconomics
+  #### Macroeconomics
 - **Neoclassical Synthesis (IS-LM)**: "Mr. Keynes and the "Classics"; A Suggested Interpretation", **`Econometrica 1937.04`**. [[Paper](https://doi.org/10.2307/1907242)]
 - **New Classical (RBC)**: "Time to Build and Aggregate Fluctuations", **`Econometrica 1982.11`**. [[Paper](https://doi.org/10.2307/1913386)]
 
-#### Micro+Macro
+  #### Micro+Macro
 - **CGE**: "Applied General-Equilibrium Models of Taxation and International Trade: An Introduction and Survey", **`JEL 1984.09`**. [[Paper](https://www.jstor.org/stable/2725306)]
 - **DSGE**: "Shocks and Frictions in US Business Cycles: A Bayesian DSGE Approach", **`AER 2007.06`**. [[Paper](https://doi.org/10.1257/aer.97.3.586)]
 
@@ -123,19 +123,19 @@ This section traces the evolution of economic modeling from rules and data to ag
 - Machine learning for economic and financial prediction
 - Feature-engineered business decision models
 
-#### Feature Engineering
+  #### Feature Engineering
 - **Feature Engineering for ML Signals**: "Machine Learning from a Universe of Signals: The Role of Feature Engineering" **`UTD-J. Financ. Econ. 2025.10`**. [[Paper](https://doi.org/10.1016/j.jfineco.2025.104138)]
 - **Transaction-Based Fraud Detection Features**: "Peer-to-Peer Loan Fraud Detection: Constructing Features from Transaction Data" **`UTD-MIS 2022.09`**. [[Paper](https://doi.org/10.25300/MISQ/2022/16103)]
 - **Photo-Based Sentiment Index**: "A Picture Is Worth a Thousand Words: Measuring Investor Sentiment by Combining Machine Learning and Photos from News" **`UTD-J. Financ. Econ. 2022.04`**. [[Paper](https://doi.org/10.1016/j.jfineco.2021.06.002)]
 - **Text-Based Volatility Signal**: "News Implied Volatility and Disaster Concerns" **`UTD-J. Financ. Econ. 2017.01`**. [[Paper](https://doi.org/10.1016/j.jfineco.2016.01.032)]
 - **Informed Trading Measure**: "Informed Trading Intensity" **`UTD-J. Finance 2024.02`**. [[Paper](https://doi.org/10.1111/jofi.13320)]
 
-#### Deep Learning
+  #### Deep Learning
 - **DL for Pricing**: "Deep Learning in Asset Pricing" **`UTD-Manage. Sci. 2024.02`**. [[Paper](https://doi.org/10.1287/mnsc.2023.4695)]
 - **Vocal Tone DL Model**: "Listen Closely: Measuring Vocal Tone in Corporate Disclosures" **`UTD-J. Account. Res. 2025.09`**. [[Paper](https://doi.org/10.1111/1475-679X.70015)]
 - **Dynamic Graph Neural Network for Stocks**: "Inductive Representation Learning on Dynamic Stock Co-Movement Graphs for Stock Predictions" **`UTD-INFORMS J Comput 2022.07`**. [[Paper](https://doi.org/10.1287/ijoc.2022.1172)]
 
-#### Language Model
+  #### Language Model
 - **Knowledge-Enhanced Text Embedding**: "Analyzing Firm Reports for Volatility Prediction: A Knowledge-Driven Text-Embedding Approach" **`UTD-INFORMS J Comput 2022.01`**. [[Paper](https://doi.org/10.1287/ijoc.2020.1046)]
 - **FinBERT**: "FinBERT: A Pre-trained Financial Language Representation Model for Financial Text Mining" **`IJCAI 2021.01`**. [[Paper](https://www.ijcai.org/proceedings/2020/0622.pdf)]
 - **BloombergGPT**: "BloombergGPT: A Large Language Model for Finance" **` arXiv 2023.03`**. [[Paper](https://arxiv.org/abs/2303.17564)]
@@ -152,7 +152,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 ### 🤖 Multi-Agent Economic Simulation
 
-#### Classical Agent-Based Economics
+  #### Classical Agent-Based Economics
 - **Agent-Based Computational Economics: Growing Economies from the Bottom Up**. Leigh Tesfatsion, 2002.
 - **Handbook of Computational Economics, Vol. 2: Agent-Based Computational Economics**. Tesfatsion and Judd, 2006.
 - **Foundations of Complexity Economics**. W. Brian Arthur, 2021.
@@ -165,7 +165,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **Social Media Bubble ABM**: "Simulation of Social Media-Driven Bubble Formation in Financial Markets using an Agent-Based Model with Hierarchical Influence Network" **`arXiv 2024.09`**. [[Paper](https://arxiv.org/abs/2409.00742)]
 - **Prediction Market Manipulation**: "Manipulation in Prediction Markets: An Agent-Based Modeling Experiment" **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2601.20452)]
 
-#### LLM-Based Multi-Agent Economic Simulation
+  #### LLM-Based Multi-Agent Economic Simulation
 - **A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis**. 2025.
 - Multi-agent market simulation with LLM agents
 - Policy and institutional simulation with interacting LLM agents
