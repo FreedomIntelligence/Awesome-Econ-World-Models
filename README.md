@@ -102,9 +102,6 @@ This section traces the evolution of economic modeling from rules and data to ag
 </p>
 
 ### 📏 Rule-Based Economic Modeling
-- Rule-based market simulation
-- Heuristic consumer choice models
-- Institutional mechanism design and policy rules
 
   #### Microeconomics
 - **General Equilibrium**: "Existence of an Equilibrium for a Competitive Economy", **`Econometrica 1954.07`**. [[Paper](https://doi.org/10.2307/1907353)]
@@ -119,9 +116,6 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **DSGE**: "Shocks and Frictions in US Business Cycles: A Bayesian DSGE Approach", **`AER 2007.06`**. [[Paper](https://doi.org/10.1257/aer.97.3.586)]
 
 ### 📊 Feature- and Data-Driven Economic Modeling
-- Econometric models
-- Machine learning for economic and financial prediction
-- Feature-engineered business decision models
 
   #### Feature Engineering
 - **Feature Engineering for ML Signals**: "Machine Learning from a Universe of Signals: The Role of Feature Engineering" **`UTD-J. Financ. Econ. 2025.10`**. [[Paper](https://doi.org/10.1016/j.jfineco.2025.104138)]
@@ -141,9 +135,8 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **BloombergGPT**: "BloombergGPT: A Large Language Model for Finance" **` arXiv 2023.03`**. [[Paper](https://arxiv.org/abs/2303.17564)]
 
 ### 🧠 Prompt- and Context-Based Economic Agents
-- **Large Language Models as Simulated Economic Agents**. John J. Horton, 2023.
-- Persona-based consumer simulation
-- Context-aware policy and market agents
+- **LLM as Homo Silicus**: "Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?" **`NBER 2023.04`**. [[Paper](https://doi.org/10.3386/w31122)]
+- **Context-Aware LLM for Market Impact**: "Context-Aware Language Models for Forecasting Market Impact from Sequences of Financial News" **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.12519)]
 - **LASER&BEAM**: "Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility" **`UTD-INFORMS J Comput 2024.11`**. [[Paper](https://doi.org/10.1287/ijoc.2022.0055)]
 - **Strategic Prompt Engineering**: "The Crowdless Future? Generative AI and Creative Problem-Solving" **`UTD-Organ. Sci. 2024.09`**. [[Paper](https://doi.org/10.1287/orsc.2023.18430)]
 - **Persona-based Prompting**: "Prompting for Policy: Forecasting Macroeconomic Scenarios with Synthetic LLM Personas" **`ICAIF 2025.11`**. [[Paper](https://doi.org/10.1145/3768292.3770385)]
@@ -166,9 +159,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **Prediction Market Manipulation**: "Manipulation in Prediction Markets: An Agent-Based Modeling Experiment" **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2601.20452)]
 
   #### LLM-Based Multi-Agent Economic Simulation
-- **A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis**. 2025.
-- Multi-agent market simulation with LLM agents
-- Policy and institutional simulation with interacting LLM agents
+- **Framework**: "A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis" **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.16879)]
 - **Digital Twin Behavioral Dataset**: "Twin-2K-500: A Data Set for Building Digital Twins of over 2,000 People Based on Their Answers to over 500 Questions" **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2505.17479)]
 - **Macro Expectation Simulation**: "Simulating Macroeconomic Expectations Using LLM Agents" **`arXiv 2025.1`**. [[Paper](https://arxiv.org/abs/2505.17648)]
 - **TwinMarket**: "TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets" **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2502.01506)]
