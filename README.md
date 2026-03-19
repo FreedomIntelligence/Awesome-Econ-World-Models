@@ -153,9 +153,9 @@ This section traces the evolution of economic modeling from rules and data to ag
 ### 🤖 Multi-Agent Economic Simulation
 
   #### Classical Agent-Based Economics
-- **Agent-Based Computational Economics: Growing Economies from the Bottom Up**. Leigh Tesfatsion, 2002.
-- **Handbook of Computational Economics, Vol. 2: Agent-Based Computational Economics**. Tesfatsion and Judd, 2006.
-- **Foundations of Complexity Economics**. W. Brian Arthur, 2021.
+- **ABCE1**: "Agent-Based Computational Economics: Growing Economies From the Bottom Up" **`Artif. Life 2002.01`**. [[Paper](https://doi.org/10.1162/106454602753694765)]
+- **ABCE2**: "Handbook of Computational Economics, Vol. 2: Agent-Based Computational Economics" **`INFORMS J. Appl. Anal. 2007.05`**. [[Paper](https://www.proquest.com/openview/9078c2bf5489543503e757f6167ad313/1?pq-origsite=gscholar&cbl=6197)]
+- **Complexity Economics**: "Foundations of Complexity Economics" **`Nat. Rev. Phys. 2021.01`**. [[Paper](https://doi.org/10.1038/s42254-020-00273-3)]
 - **First Modern ABM**: "Investment rules, margin, and market volatility" **`JPM 1989.04`**. [[Paper](https://doi.org/10.3905/jpm.1989.409233)]
 - **ABM Financial Markets Survey**: "Agent-Based Models of Financial Markets" **`arXiv 2007.01`**. [[Paper](https://arxiv.org/abs/physics/0701140)]
 - **SABCEMM**: "Simulation of Stylized Facts in Agent-Based Computational Economic Market Models" **`arXiv 2018.11`**. [[Paper](https://arxiv.org/abs/1812.02726)]
