@@ -103,7 +103,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 ### 📏 Rule-Based Economic Modeling
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microeconomics
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microeconomics
 - **General Equilibrium**: "Existence of an Equilibrium for a Competitive Economy", **`Econometrica 1954.07`**. [[Paper](https://doi.org/10.2307/1907353)]
 - **Nash Equilibrium**: "Non-Cooperative Games", **`Econometrica 1951.09`**. [[Paper](https://doi.org/10.2307/1969529)]
 
