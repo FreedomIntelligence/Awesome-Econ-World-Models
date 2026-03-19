@@ -123,10 +123,32 @@ This section traces the evolution of economic modeling from rules and data to ag
 - Machine learning for economic and financial prediction
 - Feature-engineered business decision models
 
+#### Feature Engineering
+- **Feature Engineering for ML Signals**: "Machine Learning from a Universe of Signals: The Role of Feature Engineering" **`UTD-J. Financ. Econ. 2025.10`**. [[Paper](https://doi.org/10.1016/j.jfineco.2025.104138)]
+- **Transaction-Based Fraud Detection Features**: "Peer-to-Peer Loan Fraud Detection: Constructing Features from Transaction Data" **`UTD-MIS 2022.09`**. [[Paper](https://doi.org/10.25300/MISQ/2022/16103)]
+- **Photo-Based Sentiment Index**: "A Picture Is Worth a Thousand Words: Measuring Investor Sentiment by Combining Machine Learning and Photos from News" **`UTD-J. Financ. Econ. 2022.04`**. [[Paper](https://doi.org/10.1016/j.jfineco.2021.06.002)]
+- **Text-Based Volatility Signal**: "News Implied Volatility and Disaster Concerns" **`UTD-J. Financ. Econ. 2017.01`**. [[Paper](https://doi.org/10.1016/j.jfineco.2016.01.032)]
+- **Informed Trading Measure**: "Informed Trading Intensity" **`UTD-J. Finance 2024.02`**. [[Paper](https://doi.org/10.1111/jofi.13320)]
+
+#### Deep Learning
+- **DL for Pricing**: "Deep Learning in Asset Pricing" **`UTD-Manage. Sci. 2024.02`**. [[Paper](https://doi.org/10.1287/mnsc.2023.4695)]
+- **Vocal Tone DL Model**: "Listen Closely: Measuring Vocal Tone in Corporate Disclosures" **`UTD-J. Account. Res. 2025.09`**. [[Paper](https://doi.org/10.1111/1475-679X.70015)]
+- **Dynamic Graph Neural Network for Stocks**: "Inductive Representation Learning on Dynamic Stock Co-Movement Graphs for Stock Predictions" **`UTD-INFORMS J Comput 2022.07`**. [[Paper](https://doi.org/10.1287/ijoc.2022.1172)]
+
+#### Language Model
+- **Knowledge-Enhanced Text Embedding**: "Analyzing Firm Reports for Volatility Prediction: A Knowledge-Driven Text-Embedding Approach" **`UTD-INFORMS J Comput 2022.01`**. [[Paper](https://doi.org/10.1287/ijoc.2020.1046)]
+- **FinBERT**: "FinBERT: A Pre-trained Financial Language Representation Model for Financial Text Mining" **`IJCAI 2021.01`**. [[Paper](https://www.ijcai.org/proceedings/2020/0622.pdf)]
+- **BloombergGPT**: "BloombergGPT: A Large Language Model for Finance" **` arXiv 2023.03`**. [[Paper](https://arxiv.org/abs/2303.17564)]
+
 ### 🧠 Prompt- and Context-Based Economic Agents
 - **Large Language Models as Simulated Economic Agents**. John J. Horton, 2023.
 - Persona-based consumer simulation
 - Context-aware policy and market agents
+- **LASER&BEAM**: "Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility" **`UTD-INFORMS J Comput 2024.11`**. [[Paper](https://doi.org/10.1287/ijoc.2022.0055)]
+- **Strategic Prompt Engineering**: "The Crowdless Future? Generative AI and Creative Problem-Solving" **`UTD-Organ. Sci. 2024.09`**. [[Paper](https://doi.org/10.1287/orsc.2023.18430)]
+- **Persona-based Prompting**: "Prompting for Policy: Forecasting Macroeconomic Scenarios with Synthetic LLM Personas" **`ICAIF 2025.11`**. [[Paper](https://doi.org/10.1145/3768292.3770385)]
+- **GPT Economic Rationality**: "The Emergence of Economic Rationality of GPT" **`arXiv 2023.05`**. [[Paper](https://arxiv.org/abs/2305.12763)]
+- **GPT Game Theory**: "GPT in Game Theory Experiments" **`arXiv 2023.05`**. [[Paper](https://arxiv.org/abs/2305.05516)]
 
 ### 🤖 Multi-Agent Economic Simulation
 
@@ -147,6 +169,13 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis**. 2025.
 - Multi-agent market simulation with LLM agents
 - Policy and institutional simulation with interacting LLM agents
+- **Digital Twin Behavioral Dataset**: "Twin-2K-500: A Data Set for Building Digital Twins of over 2,000 People Based on Their Answers to over 500 Questions" **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2505.17479)]
+- **Macro Expectation Simulation**: "Simulating Macroeconomic Expectations Using LLM Agents" **`arXiv 2025.1`**. [[Paper](https://arxiv.org/abs/2505.17648)]
+- **TwinMarket**: "TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets" **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2502.01506)]
+- **EconAgent**: "EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities" **`arXiv 2023.10`**. [[Paper](https://arxiv.org/abs/2310.10436)]
+- **ASFM**: "Simulating Financial Market via Large Language Model based Agents" **`arXiv 2024.06`**. [[Paper](https://arxiv.org/abs/2406.19966)]
+- **LLM Trading Agents**: "Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations" **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.10789)]
+- **TradingAgents**: "TradingAgents: Multi-Agents LLM Financial Trading Framework" **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.20138)]
 
 ### 🌍 Environment-Centric Economic World Models
 - heterogeneous agents
@@ -155,6 +184,8 @@ This section traces the evolution of economic modeling from rules and data to ag
 - long-horizon simulation
 - counterfactual and policy experimentation
 - environment-level feedback between beliefs, actions, prices, and fundamentals
+- **Game-Theoretic XAI Regulation Model**: "Regulating Explainable Artificial Intelligence (XAI) May Harm Consumers" **`UTD-Mark. Sci. 2025.05`**. [[Paper](https://doi.org/10.1287/mksc.2022.0396)]
+- **Algorithmic Lending Competition Model**: "Algorithmic Lending, Competition, and Strategic Provision of Preapproval Tools" **`UTD-Mark. Sci. 2025.08`**. [[Paper](https://doi.org/10.1287/mksc.2023.0164)]
 ---
 
 
