@@ -168,6 +168,8 @@ This section traces the evolution of economic modeling from rules and data to ag
 ### 🤖 Multi-Agent Economic Simulation
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Classical Agent-Based Economics
+- **ABM in Econ**: "Agent‐Based Modelling in Economics" **`Wiley 2015.11`**. [[Paper](https://doi.org/10.1002/9781118945520)]
+- **ABM in Macro-Econ**: "Agent-based macroeconomics" **`Handb. Comput. Econ. 2018.02`**. [[Paper](https://doi.org/10.1016/bs.hescom.2018.02.006)]
 - **ACE1**: "Agent-Based Computational Economics: Growing Economies From the Bottom Up" **`Artif. Life 2002.01`**. [[Paper](https://doi.org/10.1162/106454602753694765)]
 - **ACE2**: "Handbook of Computational Economics, Vol. 2: Agent-Based Computational Economics" **`INFORMS J. Appl. Anal. 2007.05`**. [[Paper](https://www.proquest.com/openview/9078c2bf5489543503e757f6167ad313/1?pq-origsite=gscholar&cbl=6197)]
 - **Complexity Economics**: "Foundations of Complexity Economics" **`Nat. Rev. Phys. 2021.01`**. [[Paper](https://doi.org/10.1038/s42254-020-00273-3)]
