@@ -186,7 +186,7 @@ This section traces the evolution of economic modeling from rules and data to ag
   [[Paper]](https://arxiv.org/abs/2505.07581) [[Code]](https://github.com/RUC-GSAI/YuLan-OneSim) [[Docs]](https://ruc-gsai.github.io/YuLan-OneSim/)
 
 - **MiroFish** — A multi-agent prediction engine that builds a parallel digital world from seed information (news, policies, financial signals) and simulates agent interactions for forecasting and scenario analysis.  
-  [[Code]](https://github.com/666ghj/MiroFish) [[Demo]](https://666ghj.github.io/mirofish-live-demo/)
+  [[Code]](https://github.com/666ghj/MiroFish) [[Demo]](https://666ghj.github.io/mirofish-demo/)
 
 - **SocioVerse** — A social world simulator powered by LLM agents and a large-scale user pool, designed to simulate social dynamics across domains such as economics, politics, and media.  
   [[Paper]](https://arxiv.org/abs/2504.10157) [[Code]](https://github.com/FudanDISC/SocioVerse)
