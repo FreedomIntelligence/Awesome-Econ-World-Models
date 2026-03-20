@@ -199,6 +199,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 - environment-level feedback between beliefs, actions, prices, and fundamentals
 - **Game-Theoretic XAI Regulation Model**: "Regulating Explainable Artificial Intelligence (XAI) May Harm Consumers" **`UTD-Mark. Sci. 2025.05`**. [[Paper](https://doi.org/10.1287/mksc.2022.0396)]
 - **Algorithmic Lending Competition Model**: "Algorithmic Lending, Competition, and Strategic Provision of Preapproval Tools" **`UTD-Mark. Sci. 2025.08`**. [[Paper](https://doi.org/10.1287/mksc.2023.0164)]
+- **Environment + Single Agent**: "AlphaManager: A Data-Driven-Robust-Control Approach to Corporate Finance" **`SSRN 2025.03`**. [[Paper](http://dx.doi.org/10.2139/ssrn.4590323)]
 ---
 
 
