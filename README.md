@@ -60,18 +60,29 @@ Broad overviews that help newcomers understand the landscape.
 
 - A Comprehensive Survey on World Models for Embodied AI. [[Paper](https://arxiv.org/abs/2510.16732)]
 
+- Learning to Model the World: A Survey of World Models in Artificial Intelligence. [[Paper]()]
+
+- Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond. [[Paper]()]
+
+- World models for autonomous driving: An initial survey. [[Paper]()]
 
 ### 🔹 General World Models
 
 Foundational papers that shape the modern notion of learning internal models of environment dynamics.
 
-- World Models. David Ha, Jürgen Schmidhuber, 2018. 
+- World Models. David Ha, Jürgen Schmidhuber, 2018.
+
+- Recurrent World Models Facilitate Policy Evolution. David Ha, Jürgen Schmidhuber, 2018.
 
 - Dream to Control: Learning Behaviors by Latent Imagination.  Danijar Hafner et al., 2019. 
  
 - Mastering Atari with Discrete World Models. Danijar Hafner et al., 2021.
 
+- A Path Towards Autonomous Machine Intelligence (JEPA). Yann LeCun, 2022.
+
 - Mastering Diverse Domains through World Models. Danijar Hafner et al., 2023.
+
+- General agents need world models. Richens et al., 2025.
 
 
 ### 🎬 Generative and Interactive World Models
@@ -86,7 +97,18 @@ Representative works that extend world models from latent RL environments to mul
 
 - Genie 2: A Large-Scale Foundation World Model. Google DeepMind, 2024.
 
+- Learning Interactive Real-World Simulators (UniSim). Sherry Yang et al., 2024.
+
+- Pandora: Towards General World Model with Natural Language Actions and Video States. Jiannan Xiang et al., 2024.
+
+- Project sid: Many-agent simulations toward AI civilization. Altera AL et al., 2024.
+
+- Learning interactive real-world simulators. Yang et al., 2024.
+
+- Learning to Model the World with Language. Lin et al., 2024.
+
 - SIMA / SIMA 2
+
 - Embodied AI Agents: Modeling the World
   
 - Embodied AI: From LLMs to World Models
@@ -193,6 +215,20 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 - **OASIS** — An open-source large-scale social interaction simulator that models dynamic online platforms and supports simulations with millions of agents.  
   [[Paper]](https://arxiv.org/abs/2411.11581) [[Code]](https://github.com/camel-ai/oasis)
+
+- **AI2-THOR** – An interactive 3D environment for visual AI that mimics real-life home activities.
+
+- **Habitat** – A platform for embodied AI research providing photorealistic indoor settings.
+
+- **MineDojo** – Building open-ended embodied agents with internet-scale knowledge using a procedurally generated, sandbox-like environment.
+
+- **AI Town** – Generative agents: Interactive simulacra of human behavior.
+
+- **S3** – Social-network simulation system with large language model-empowered agents.
+
+- **AgentSociety** – Large-scale simulation of LLM-driven generative agents to advance the understanding of human behaviors and society.
+
+- **OpenCity** - A scalable platform to simulate urban activities with massive LLM agents
   
 ---
 
