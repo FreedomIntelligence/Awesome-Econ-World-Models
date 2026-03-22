@@ -16,8 +16,10 @@
   <img src="images/econwm.jpg" width="800">
 </p>
 
+
+
 ## 🔥 News
-- [2026/03/24] Initial release of the Awesome-Econ-World-Models GitHub repository.
+- [2026/03/23] Initial release of the Awesome-Econ-World-Models GitHub repository.
 
 ## 🌐 What is An Economic World Model?
 
@@ -47,7 +49,7 @@ An Economic World Model (EconWM) is a data-driven **imagination engine** for und
   
 - [Projects and Platforms](#-projects-and-platforms)
 
-- [Contributing](#-contributing)
+- [Citation](#-citation)
 
 ---
 
@@ -133,7 +135,7 @@ Representative works that extend world models from latent RL environments to mul
   
 - Embodied AI: From LLMs to World Models. Tongtong Feng et al., 2025. [[Paper](https://arxiv.org/abs/2509.20021)]
 
----
+
 
 ---
 
@@ -141,6 +143,7 @@ Representative works that extend world models from latent RL environments to mul
 
 - World Models: Computing the Uncomputable, `2026.03`. [[link]](https://www.notboring.co/p/world-models) [[WeChat repost]](https://mp.weixin.qq.com/s/JY3mpKYyCqnTNdPR2mne0w)
 
+---
 
 ## 🌐 Economic World Models
 
@@ -330,6 +333,16 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 ---
 
-## 🤝 Contributing
+## 📝 Citation
+
+If you find this repository useful, please consider citing and giving this list a star ⭐! Feel free to share it with others!
+```
+@misc{han2026econwmpaperslist,
+    title = {Awesome-Econ-World-Models},
+    journal = {GitHub repository},
+    url = {https://github.com/FreedomIntelligence/Awesome-Econ-World-Models},
+    year = {2026}
+}
+```
 
 We welcome contributions on papers, projects, benchmarks, tutorials, and blog posts. Please feel free to open a pull request or issue if you would like to add relevant resources.
