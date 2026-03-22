@@ -18,10 +18,11 @@
 
 
 
+
 ## 🔥 News
 - [2026/03/23] Initial release of the Awesome-Econ-World-Models GitHub repository.
 
-## 🌐 What is An Economic World Model?
+## 🌐 What is an Economic World Model?
 
 An Economic World Model (EconWM) is a data-driven **imagination engine** for understanding and simulating economic systems, enabling humans and machines to explore *what-if* futures under alternative actions and interventions.
 
@@ -111,7 +112,7 @@ Representative works that extend world models from latent RL environments to mul
 
 - **Sora** - Video Generation Models as World Simulators. OpenAI, 2024. [[Paper](https://openai.com/index/video-generation-models-as-world-simulators/)]
 
-- **SIMA/SIMA 2** - Scalable Instructable Multiworld Agent. Google DeepMind, 2024. [[Paper](https://deepmind.google/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)] [[Paper](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)]
+- **SIMA/SIMA 2** - Scalable Instructable Multiworld Agent. Google DeepMind, 2024. [[Paper]](https://deepmind.google/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) [[Paper](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)]
 
 - **Genie:** Generative Interactive Environments. Bruce et al., 2024. [[Paper](https://openreview.net/forum?id=bJbSbJskOS)]
 
@@ -120,8 +121,6 @@ Representative works that extend world models from latent RL environments to mul
 - **Pandora:** Towards General World Model with Natural Language Actions and Video States. Jiannan Xiang et al., 2024. [[Paper](https://arxiv.org/abs/2406.09455)]
 
 - **Project Sid:** Many-agent simulations toward AI civilization. Altera AL et al., 2024. [[Paper](https://arxiv.org/abs/2411.00114)]
-
-- Learning to Model the World with Language. Lin et al., 2024. [[Paper](https://arxiv.org/abs/2308.01399)]
 
 - **MineDreamer:** Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control. Enshen Zhou et al., 2024. [[Paper](https://arxiv.org/abs/2403.12037)]
 
@@ -142,6 +141,9 @@ Representative works that extend world models from latent RL environments to mul
 ## 📝 Blogs and Perspectives
 
 - World Models: Computing the Uncomputable, `2026.03`. [[link]](https://www.notboring.co/p/world-models) [[WeChat repost]](https://mp.weixin.qq.com/s/JY3mpKYyCqnTNdPR2mne0w)
+- V-JEPA: The next step toward Yann LeCun’s vision of advanced machine intelligence (AMI), `2024.02`. [[link]](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
+- Yann LeCun on a vision to make AI systems learn and reason like animals and humans, `2022.02`. [[link]](https://ai.meta.com/blog/yann-lecun-advances-in-ai-research/)
+- Yann LeCun: AI Doesn’t Need Our Supervision, `2022.02`. [[link]](https://spectrum.ieee.org/yann-lecun-ai)
 
 ---
 
@@ -335,9 +337,9 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 ## 📝 Citation
 
-If you find this repository useful, please consider citing and giving this list a star ⭐! Feel free to share it with others!
+If you find this repository helpful, please consider starring it ⭐ and citing: 
 ```
-@misc{han2026econwmpaperslist,
+@misc{econwm2026econwmpaperslist,
     title = {Awesome-Econ-World-Models},
     journal = {GitHub repository},
     url = {https://github.com/FreedomIntelligence/Awesome-Econ-World-Models},
