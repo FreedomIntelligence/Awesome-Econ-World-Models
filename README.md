@@ -40,7 +40,11 @@ They go beyond static prediction by enabling **simulation, counterfactual reason
   - [Prompt- and Context-Based Economic Agents](#-prompt--and-context-based-economic-agents)
   - [Multi-Agent Economic Simulation](#-multi-agent-economic-simulation)
   - [Environment-Centric Economic World Models](#-environment-centric-economic-world-models)
-    
+  
+- [Applications](#-applications)
+  - [Sandbox for Humans](#-sandbox-for-humans)
+  - [Economic Brain for Machines](#-economic-brain-for-machines)
+  
 - [Projects and Platforms](#-projects-and-platforms)
   
 - [Blogs and Perspectives](#-blogs-and-perspectives)
@@ -204,6 +208,12 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **Environment + Single Agent**: "AlphaManager: A Data-Driven-Robust-Control Approach to Corporate Finance" **`SSRN 2025.03`**. [[Paper](http://dx.doi.org/10.2139/ssrn.4590323)]
 ---
 
+## Applications
+
+### Sandbox for Humans
+### Economic Brain for Machines
+
+---
 
 ## 🛠️ Projects and Platforms
 
