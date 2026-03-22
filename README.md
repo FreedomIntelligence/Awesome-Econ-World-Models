@@ -277,7 +277,10 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 - Consumption and Savings with Large Language Model Agents. Sergiy Verstyuk and Michael R. Douglas, 2026. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6037936)]
 
+
 ### Economic Brain for Machines
+
+- RISE: Self-Improving Robot Policy with Compositional World Model, `2026.02`. [[Paper]](https://arxiv.org/abs/2602.11075) [[Project]](https://opendrivelab.com/kai0-rl/)
 
 - **The AI Economist:** Taxation Policy Design via Two-level Deep Multiagent Reinforcement Learning. Stephan Zheng et al., 2022. [[Paper](https://www.science.org/doi/full/10.1126/sciadv.abk2607)]
 
