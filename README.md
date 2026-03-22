@@ -19,11 +19,9 @@
 ## 🔥 News
 - [2026/03/16] Initial release of the Awesome-Econ-World-Models GitHub repository.
 
-## 🌐 What are Economic World Models?
+## 🌐 What is An Economic World Model?
 
-Economic World Models (EconWMs) aim to build computational environments where heterogeneous agents, institutions, markets, and information interact dynamically over time.  
-They go beyond static prediction by enabling **simulation, counterfactual reasoning, policy evaluation, and decision support** in economic and business systems.
-
+An Economic World Model (EconWM) is a data-driven **imagination engine** for understanding and simulating economic systems, enabling humans and machines to explore *what-if* futures under alternative actions and interventions.
 
 ---
 
