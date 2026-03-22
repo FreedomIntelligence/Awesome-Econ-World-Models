@@ -31,6 +31,8 @@ An Economic World Model (EconWM) is a data-driven **imagination engine** for und
   - [Surveys and Tutorials](#-surveys-and-tutorials)
   - [General World Models](#-general-world-models)
   - [Generative and Interactive World Models](#-generative-and-interactive-world-models)
+  
+- [Blogs and Perspectives](#-blogs-and-perspectives)
 
 - [Economic World Models](#-economic-world-models)
   - [Rule-Based Economic Modeling](#-rule-based-economic-modeling)
@@ -44,8 +46,6 @@ An Economic World Model (EconWM) is a data-driven **imagination engine** for und
   - [Economic Brain for Machines](#-economic-brain-for-machines)
   
 - [Projects and Platforms](#-projects-and-platforms)
-  
-- [Blogs and Perspectives](#-blogs-and-perspectives)
 
 - [Contributing](#-contributing)
 
@@ -134,6 +134,13 @@ Representative works that extend world models from latent RL environments to mul
 - Embodied AI: From LLMs to World Models. Tongtong Feng et al., 2025. [[Paper](https://arxiv.org/abs/2509.20021)]
 
 ---
+
+---
+
+## 📝 Blogs and Perspectives
+
+- World Models: Computing the Uncomputable, `2026.03`. [[link]](https://www.notboring.co/p/world-models) [[WeChat repost]](https://mp.weixin.qq.com/s/JY3mpKYyCqnTNdPR2mne0w)
+
 
 ## 🌐 Economic World Models
 
@@ -319,10 +326,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **OASIS** — An open-source large-scale social interaction simulator that models dynamic online platforms and supports simulations with millions of agents.  
   [[Paper]](https://arxiv.org/abs/2411.11581) [[Code]](https://github.com/camel-ai/oasis)
   
----
-
-## 📝 Blogs and Perspectives
-
+- **Global Economic Model** [[Link](https://www.oxfordeconomics.com/service/subscription-services/macro/global-economic-model/)]
 
 ---
 
