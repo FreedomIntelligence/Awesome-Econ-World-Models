@@ -99,7 +99,7 @@ Foundational papers that shape the modern notion of learning internal models of 
 
 Representative works that extend world models from latent RL environments to multimodal generation, interactive simulation, and embodied environments.
 
-- **MineDojo:** - Building Open-Ended Embodied Agents with Internet-Scale Knowledge. Linxi Fan et al., 2022. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/74a67268c5cc5910f64938cac4526a90-Abstract-Datasets_and_Benchmarks.html)]
+- **MineDojo:** Building Open-Ended Embodied Agents with Internet-Scale Knowledge. Linxi Fan et al., 2022. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/74a67268c5cc5910f64938cac4526a90-Abstract-Datasets_and_Benchmarks.html)]
 
 - **GAIA-1:** A Generative World Model for Autonomous Driving. Wayve, 2023. [[Paper](https://arxiv.org/abs/2309.17080)]
 
