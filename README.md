@@ -324,20 +324,6 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 - **OASIS** — An open-source large-scale social interaction simulator that models dynamic online platforms and supports simulations with millions of agents.  
   [[Paper]](https://arxiv.org/abs/2411.11581) [[Code]](https://github.com/camel-ai/oasis)
-
-- **AI2-THOR** – An interactive 3D environment for visual AI that mimics real-life home activities.
-
-- **Habitat** – A platform for embodied AI research providing photorealistic indoor settings.
-
-- **MineDojo** – Building open-ended embodied agents with internet-scale knowledge using a procedurally generated, sandbox-like environment.
-
-- **AI Town** – Generative agents: Interactive simulacra of human behavior.
-
-- **S3** – Social-network simulation system with large language model-empowered agents.
-
-- **AgentSociety** – Large-scale simulation of LLM-driven generative agents to advance the understanding of human behaviors and society.
-
-- **OpenCity** - A scalable platform to simulate urban activities with massive LLM agents
   
 ---
 
