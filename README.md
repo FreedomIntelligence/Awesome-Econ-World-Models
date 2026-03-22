@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="images/econ_world_model.png" width="800">
+  <img src="images/econwm.png" width="800">
 </p>
 
 ## 🔥 News
