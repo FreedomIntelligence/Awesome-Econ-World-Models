@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="images/econwm.jpg" width="800">
+  <img src="images/econwm.png" width="800">
 </p>
 
 
