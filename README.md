@@ -60,79 +60,80 @@ An Economic World Model (EconWM) is a data-driven **imagination engine** for und
 
 Broad overviews that help newcomers understand the landscape.
 
-- Understanding World or Predicting Future? A Survey of World Models. [[Paper](https://arxiv.org/abs/2411.14499)]
+- Understanding World or Predicting Future? A Survey of World Models, `arxiv, 2024.11`. [[Paper](https://arxiv.org/abs/2411.14499)]
   
-- From Efficient Multimodal Models to World Models: A Survey. [[Paper](https://arxiv.org/abs/2407.00118)]
+- From Efficient Multimodal Models to World Models: A Survey, `arxiv, 2024.07`. [[Paper](https://arxiv.org/abs/2407.00118)]
 
-- A Comprehensive Survey on World Models for Embodied AI. [[Paper](https://arxiv.org/abs/2510.16732)]
+- A Comprehensive Survey on World Models for Embodied AI, `arxiv, 2025.10`. [[Paper](https://arxiv.org/abs/2510.16732)]
 
-- Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond. [[Paper](https://arxiv.org/abs/2405.03520)]
+- Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond, `arxiv, 2024.05`. [[Paper](https://arxiv.org/abs/2405.03520)]
 
-- World models for autonomous driving: An initial survey. [[Paper](https://ieeexplore.ieee.org/abstract/document/10522953)]
+- World models for autonomous driving: An initial survey, `IEEE Transactions on Intelligent Vehicles, 2024.05`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10522953)]
 
-- Learning to Model the World: A Survey of World Models in Artificial Intelligence. [[Paper](https://www.preprints.org/manuscript/202603.0739)]
+- Learning to Model the World: A Survey of World Models in Artificial Intelligence, `Preprints.org, 2026.03`. [[Paper](https://www.preprints.org/manuscript/202603.0739)]
 
 ### 🔹 General World Models
 
 Foundational papers that shape the modern notion of learning internal models of environment dynamics.
 
-- World Models. David Ha, Jürgen Schmidhuber, 2018. [[Paper](https://arxiv.org/abs/1803.10122)]
+- World Models, `arxiv, 2018.03`. [[Paper](https://arxiv.org/abs/1803.10122)]
 
-- Recurrent World Models Facilitate Policy Evolution. David Ha, Jürgen Schmidhuber, 2018. [[Paper](https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)]
+- Recurrent World Models Facilitate Policy Evolution, `NeurIPS, 2018.12`. [[Paper](https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)]
 
-- Dream to Control: Learning Behaviors by Latent Imagination. Danijar Hafner et al., 2019. [[Paper](https://arxiv.org/abs/1912.01603)]
+- Dream to Control: Learning Behaviors by Latent Imagination, `arxiv, 2019.12`. [[Paper](https://arxiv.org/abs/1912.01603)]
  
-- Mastering Atari with Discrete World Models (DreamerV2). Danijar Hafner et al., 2020. [[Paper](https://arxiv.org/abs/2010.02193)]
+- Mastering Atari with Discrete World Models (DreamerV2), `arxiv, 2020.10`. [[Paper](https://arxiv.org/abs/2010.02193)]
 
-- A Path Towards Autonomous Machine Intelligence (JEPA). Yann LeCun, 2022. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf&utm_source=pocket_mylist)]
+- A Generalist Agent, `arxiv, 2022.05`. [[Paper](https://arxiv.org/abs/2205.06175)]
 
-- Inner Monologue: Embodied Reasoning through Planning with Language Models. Weilong Huang et al., 2022. [[Paper](https://arxiv.org/abs/2207.05608)]
+- A Path Towards Autonomous Machine Intelligence (JEPA), `OpenReview, 2022.06`. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf&utm_source=pocket_mylist)]
 
-- A Generalist Agent. Scott Reed et al., 2022. [[Paper](https://arxiv.org/abs/2205.06175)]
+- Inner Monologue: Embodied Reasoning through Planning with Language Models, `arxiv, 2022.07`. [[Paper](https://arxiv.org/abs/2207.05608)]
 
-- Mastering Diverse Domains through World Models (DreamerV3). Danijar Hafner et al., 2023. [[Paper](https://arxiv.org/abs/2301.04104)]
+- Mastering Diverse Domains through World Models (DreamerV3), `arxiv, 2023.01`. [[Paper](https://arxiv.org/abs/2301.04104)]
 
-- Language Models Represent Space and Time. Wes Gurnee, Max Tegmark, 2023. [[Paper](https://arxiv.org/abs/2310.02207)]
+- Language Models Represent Space and Time, arxiv, `2023.10`. [[Paper](https://arxiv.org/abs/2310.02207)]
 
-- General Agents Need World Models. Jonathan Richens et al., 2025. [[Paper](https://openreview.net/forum?id=dlIoumNiXt)]
+- Mastering Diverse Control Tasks Through World Models, Nature, `2025.04`. [[Paper](https://www.nature.com/articles/s41586-025-08744-2)]
 
-- Mastering Diverse Control Tasks Through World Models. Danijar Hafner et al., 2025. [[Paper](https://www.nature.com/articles/s41586-025-08744-2)]
+- General Agents Need World Models, `ICML, 2025.07`. [[Paper](https://openreview.net/forum?id=dlIoumNiXt)]
+
 
 ### 🎬 Generative and Interactive World Models
 
 Representative works that extend world models from latent RL environments to multimodal generation, interactive simulation, and embodied environments.
 
-- **MineDojo:** Building Open-Ended Embodied Agents with Internet-Scale Knowledge. Linxi Fan et al., 2022. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/74a67268c5cc5910f64938cac4526a90-Abstract-Datasets_and_Benchmarks.html)]
+- **MineDojo:** Building Open-Ended Embodied Agents with Internet-Scale Knowledge, `NeurIPS, 2022.12`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/74a67268c5cc5910f64938cac4526a90-Abstract-Datasets_and_Benchmarks.html)]
 
-- **GAIA-1:** A Generative World Model for Autonomous Driving. Wayve, 2023. [[Paper](https://arxiv.org/abs/2309.17080)]
+- Learning to Model the World with Language, `arxiv, 2023.08`. [[Paper](https://arxiv.org/abs/2308.01399)]
 
-- Learning to Model the World with Language. Jialu Lin et al., 2023. [[Paper](https://arxiv.org/abs/2308.01399)]
+- **GAIA-1:** A Generative World Model for Autonomous Driving, `arxiv, 2023.09`. [[Paper](https://arxiv.org/abs/2309.17080)]
 
-- **UniSim** - Learning Interactive Real-World Simulators. Sherry Yang et al., 2023. [[Paper](https://arxiv.org/abs/2310.06114)]
+- **UniSim** - Learning Interactive Real-World Simulators, `arxiv, 2023.10`. [[Paper](https://arxiv.org/abs/2310.06114)]
 
-- **Sora** - Video Generation Models as World Simulators. OpenAI, 2024. [[Paper](https://openai.com/index/video-generation-models-as-world-simulators/)]
+- **Sora** - Video Generation Models as World Simulators, `OpenAI Blog, 2024.02`. [[Paper](https://openai.com/index/video-generation-models-as-world-simulators/)]
 
-- **SIMA/SIMA 2** - Scalable Instructable Multiworld Agent. Google DeepMind, 2024. [[Paper]](https://deepmind.google/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) [[Paper](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)]
+- **Genie:** Generative Interactive Environments, `OpenReview, 2024.02`. [[Paper](https://openreview.net/forum?id=bJbSbJskOS)]
 
-- **Genie:** Generative Interactive Environments. Bruce et al., 2024. [[Paper](https://openreview.net/forum?id=bJbSbJskOS)]
+- **MineDreamer:** Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control, `arxiv, 2024.03`. [[Paper](https://arxiv.org/abs/2403.12037)]
 
-- **Genie 2:** A Large-Scale Foundation World Model. Google DeepMind, 2024. [[Paper](https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/)]
+- **SIMA/SIMA 2** - Scalable Instructable Multiworld Agent, `Google DeepMind Blog, 2024.03`. [[Paper]](https://deepmind.google/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) [[Paper](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)]
 
-- **Pandora:** Towards General World Model with Natural Language Actions and Video States. Jiannan Xiang et al., 2024. [[Paper](https://arxiv.org/abs/2406.09455)]
+- **Pandora:** Towards General World Model with Natural Language Actions and Video States, `arxiv, 2024.06`. [[Paper](https://arxiv.org/abs/2406.09455)]
 
-- **Project Sid:** Many-agent simulations toward AI civilization. Altera AL et al., 2024. [[Paper](https://arxiv.org/abs/2411.00114)]
+- **Genie 2:** A Large-Scale Foundation World Model, `Google DeepMind Blog, 2024.08`. [[Paper](https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/)]
 
-- **MineDreamer:** Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control. Enshen Zhou et al., 2024. [[Paper](https://arxiv.org/abs/2403.12037)]
+- **Project Sid:** Many-agent simulations toward AI civilization, `arxiv, 2024.11`. [[Paper](https://arxiv.org/abs/2411.00114)]
 
-- **Sim-gen:** Simulator-conditioned driving scene generation. Yunsong Zhou et al., 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/57c5a7c83b056d74bc97b7db36bd3649-Abstract-Conference.html)]
+- **Sim-gen:** Simulator-conditioned driving scene generation, `NeurIPS, 2024.12`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/57c5a7c83b056d74bc97b7db36bd3649-Abstract-Conference.html)]
 
-- **EgoAgent:** A Joint Predictive Agent Model in Egocentric Worlds. Lu Chen et al., 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_EgoAgent_A_Joint_Predictive_Agent_Model_in_Egocentric_Worlds_ICCV_2025_paper.html)]
-
-- **HERMES:** A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation. Xin Zhou et al., 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_HERMES_A_Unified_Self-Driving_World_Model_for_Simultaneous_3D_Scene_ICCV_2025_paper.html)]
-
-- Embodied AI Agents: Modeling the World. Pascale Fung et al., 2025. [[Paper](https://arxiv.org/abs/2506.22355)]
+- Embodied AI Agents: Modeling the World, `arxiv, 2025.06`. [[Paper](https://arxiv.org/abs/2506.22355)]
   
-- Embodied AI: From LLMs to World Models. Tongtong Feng et al., 2025. [[Paper](https://arxiv.org/abs/2509.20021)]
+- Embodied AI: From LLMs to World Models, `arxiv, 2025.09`. [[Paper](https://arxiv.org/abs/2509.20021)]
+
+- **EgoAgent:** A Joint Predictive Agent Model in Egocentric Worlds, `ICCV, 2025.10`. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_EgoAgent_A_Joint_Predictive_Agent_Model_in_Egocentric_Worlds_ICCV_2025_paper.html)]
+
+- **HERMES:** A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation, `ICCV, 2025.10`. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_HERMES_A_Unified_Self-Driving_World_Model_for_Simultaneous_3D_Scene_ICCV_2025_paper.html)]
 
 
 
@@ -235,87 +236,87 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 ### Sandbox for Humans
 
-- **Social simulacra：** Creating Populated Prototypes for Social Computing Systems. Joon Sung Park et al., 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3526113.3545616)]
+- Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies, `arxiv, 2022.08`. [[Paper](https://arxiv.org/abs/2208.10264)]
 
-- Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies. Gati Aher et al., 2022 [[Paper](https://arxiv.org/abs/2208.10264)]
+- **Social simulacra：** Creating Populated Prototypes for Social Computing Systems, `UIST, 2022.10`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3526113.3545616)]
 
-- **AI Town** – Generative Agents: Interactive Simulacra of Human Behavior. Joon Sung Park et al., 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3586183.3606763)]
+- **Voyager:** An Open-Ended Embodied Agent with Large Language Models, `arxiv, 2023.05`. [[Paper](https://arxiv.org/abs/2305.16291)]
 
-- Bank Run, Interrupted: Modeling Deposit Withdrawals with Generative AI. Sophia Kazinnik, 2023. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4656722)]
+- **S3：** Social-network Simulation System with Large Language Model-Empowered Agents, `arxiv, 2023.07`. [[Paper](https://arxiv.org/abs/2307.14984)]
 
-- **S3：** Social-network Simulation System with Large Language Model-Empowered Agents. Chen Gao et al., 2023. [[Paper](https://arxiv.org/abs/2307.14984)]
+- Out of One, Many: Using Language Models to Simulate Human Samples, `Political Analysis, 2023.09`. [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)]
 
-- **Waragent** - War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars. Wenyue Hua et al., 2023. [[Paper](https://arxiv.org/abs/2311.17227)]
+- **AI Town** – Generative Agents: Interactive Simulacra of Human Behavior, `UIST, 2023.10`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3586183.3606763)]
 
-- **Voyager:** An Open-Ended Embodied Agent with Large Language Models. Guanzhi Wang et al., 2023. [[Paper](https://arxiv.org/abs/2305.16291)]
+- **Waragent** - War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars, `arxiv, 2023.11`. [[Paper](https://arxiv.org/abs/2311.17227)]
 
-- Out of One, Many: Using Language Models to Simulate Human Samples. Lisa P. Argyle et al., 2023. [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)]
+- Bank Run, Interrupted: Modeling Deposit Withdrawals with Generative AI, `SSRN, 2023.12`. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4656722)]
 
-- **Automated social science:** Language Models as Scientist and Subjects. Benjamin S. Manning et al., 2024. [[Paper](https://www.nber.org/papers/w32381)]
+- **ABIDES-Economist:** Agent-Based Simulator of Economic Systems with Learning Agents, `arxiv, 2024.02`. [[Paper](https://arxiv.org/abs/2402.09563)]
 
-- **Stockagent** - When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments. Chong Zhang et al., 2024. [[Paper](https://arxiv.org/abs/2407.18957)]
+- **Automated social science:** Language Models as Scientist and Subjects, `NBER, 2024.04`. [[Paper](https://www.nber.org/papers/w32381)]
 
-- **ABIDES-Economist:** Agent-Based Simulator of Economic Systems with Learning Agents. Kshama Dwarakanath et al., 2024. [[Paper](https://arxiv.org/abs/2402.09563)]
+- **Stockagent** - When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments, `arxiv, 2024.07`. [[Paper](https://arxiv.org/abs/2407.18957)]
 
-- **LLM voting:** Human Choices and AI Collective Decision-Making. Joshua C. Yang et al., 2024. [[Paper](https://ojs.aaai.org/index.php/AIES/article/view/31758)]
+- Can Machines Think Like Humans? A Behavioral Evaluation of LLM Agents in Dictator Games, `arxiv, 2024.10`. [[Paper](https://arxiv.org/abs/2410.21359)]
 
-- **AgentSociety：** Large-Scale Simulation of LLM-Driven Generative Agents to Advance the Understanding of Human Behaviors and Society. Jinghua Piao et al., 2025. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954414)]
+- **LLM voting:** Human Choices and AI Collective Decision-Making, `AIES, 2024.10`. [[Paper](https://ojs.aaai.org/index.php/AIES/article/view/31758)]
 
-- **FOMC In Silico:** A Multi-Agent System for Monetary Policy Decision Modeling. Sophia Kazinnik and Tara M. Sinclair, 2025. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5424097)]
+- **AgentSociety：** Large-Scale Simulation of LLM-Driven Generative Agents to Advance the Understanding of Human Behaviors and Society, `SSRN, 2025.01`. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954414)]
 
-- **MiniFed:** LLMs-based Agentic-Workflow for Simulating FOMC Meetings. Sungil Seok et al., 2025. [[Paper](https://aisel.aisnet.org/pacis2025/aiandml/aiandml/21/)]
+- **FOMC In Silico:** A Multi-Agent System for Monetary Policy Decision Modeling, `SSRN, 2025.01`. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5424097)]
 
-- Can Machines Think Like Humans? A Behavioral Evaluation of LLM Agents in Dictator Games. Ji Ma, 2025. [[Paper](https://arxiv.org/abs/2410.21359)]
+- Playing Repeated Games With Large Language Models, `Nature Human Behaviour, 2025.02`. [[Paper](https://www.nature.com/articles/s41562-025-02172-y)]
 
-- Playing Repeated Games With Large Language Models. Elif Akata et al., 2025. [[Paper](https://www.nature.com/articles/s41562-025-02172-y)]
+- **MiniFed:** LLMs-based Agentic-Workflow for Simulating FOMC Meetings, `PACIS, 2025.07`. [[Paper](https://aisel.aisnet.org/pacis2025/aiandml/aiandml/21/)]
 
-- Pay What LLM Wants: Can LLM Simulate Economics Experiment with 522 Real-human Persona? Junhyuk Choi et al., 2025. [[Paper](https://arxiv.org/abs/2508.03262)]
+- Pay What LLM Wants: Can LLM Simulate Economics Experiment with 522 Real-human Persona?, `arxiv, 2025.08`. [[Paper](https://arxiv.org/abs/2508.03262)]
 
-- Evaluating and Aligning Human Economic Risk Preferences in LLMs. Jiaxin Liu et al., 2025. [[Paper](https://aclanthology.org/2025.emnlp-main.917/)]
+- **InsurAgent:** A Large Language Model-Empowered Agent for Simulating Individual Behavior in Purchasing Flood Insurance, `arxiv, 2025.11`. [[Paper](https://arxiv.org/abs/2511.02119)]
 
-- InsurAgent: A Large Language Model-Empowered Agent for Simulating Individual Behavior in Purchasing Flood Insurance. Ziheng Geng et al., 2025. [[Paper](https://arxiv.org/abs/2511.02119)]
+- Evaluating and Aligning Human Economic Risk Preferences in LLMs, `EMNLP, 2025.12`. [[Paper](https://aclanthology.org/2025.emnlp-main.917/)]
 
-- Consumption and Savings with Large Language Model Agents. Sergiy Verstyuk and Michael R. Douglas, 2026. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6037936)]
+- Consumption and Savings with Large Language Model Agents, `SSRN, 2026.02`. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6037936)]
 
 
 ### Economic Brain for Machines
 
-- RISE: Self-Improving Robot Policy with Compositional World Model, `2026.02`. [[Paper]](https://arxiv.org/abs/2602.11075) [[Project]](https://opendrivelab.com/kai0-rl/)
+- **The AI Economist:** Taxation Policy Design via Two-level Deep Multiagent Reinforcement Learning, `Science Advances, 2022.05`. [[Paper](https://www.science.org/doi/full/10.1126/sciadv.abk2607)]
 
-- **The AI Economist:** Taxation Policy Design via Two-level Deep Multiagent Reinforcement Learning. Stephan Zheng et al., 2022. [[Paper](https://www.science.org/doi/full/10.1126/sciadv.abk2607)]
+- Using LLMs for Market Research, `SSRN, 2023.03`. [[Paper](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4395751)]
 
-- Using LLMs for Market Research. James Brand et al., 2023. [[Paper](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4395751)]
+- **Simulated Economic Agents** - Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?, `NBER, 2023.04`. [[Paper](https://www.nber.org/papers/w31122)]
 
-- **EconAgent:** Large Language Model-Empowered Agents for Simulating Macroeconomic Activities. Nian Li et al., 2024. [[Paper](https://aclanthology.org/2024.acl-long.829/)]
+- Are LLMs Rational Investors? A Study on Detecting and Reducing the Financial Bias in LLMs, `arxiv, 2024.02`. [[Paper](https://arxiv.org/abs/2402.12713)]
 
-- **Project Sid:** Many-agent simulations toward AI civilization. Altera.AL et al., 2024. [[Paper](https://arxiv.org/abs/2411.00114)]
+- **EconAgent:** Large Language Model-Empowered Agents for Simulating Macroeconomic Activities, `ACL, 2024.08`. [[Paper](https://aclanthology.org/2024.acl-long.829/)]
 
-- **SRAP-Agent:** Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent. Jiarui Ji et al., 2024. [[Paper](https://aclanthology.org/2024.findings-emnlp.15/)]
+- Can LLMs Mimic Human-Like Mental Accounting and Behavioral Biases?, `ACM, 2024.08`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3670865.3673632)]
 
-- Are LLMs Rational Investors? A Study on Detecting and Reducing the Financial Bias in LLMs. Yuhang Zhou et al., 2024. [[Paper](https://arxiv.org/abs/2402.12713)]
+- LLM economicus? Mapping the Behavioral Biases of LLMs via Utility Theory, `arxiv, 2024.08`. [[Paper](https://arxiv.org/abs/2408.02784)]
 
-- Can LLMs Mimic Human-Like Mental Accounting and Behavioral Biases? Yan Leng, 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3670865.3673632)]
+- **Project Sid:** Many-agent simulations toward AI civilization, `arxiv, 2024.11`. [[Paper](https://arxiv.org/abs/2411.00114)]
 
-- LLM economicus? Mapping the Behavioral Biases of LLMs via Utility Theory. Jillian Ross et al., 2024. [[Paper](https://arxiv.org/abs/2408.02784)]
+- **SRAP-Agent:** Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent, `EMNLP Findings, 2024.11`. [[Paper](https://aclanthology.org/2024.findings-emnlp.15/)]
 
-- A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis. Yuzhi Hao et al., 2025. [[Paper](https://arxiv.org/abs/2502.16879)]
+- A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis, `arxiv, 2025.02`. [[Paper](https://arxiv.org/abs/2502.16879)]
 
-- **LLM Economist:** Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra. Seth Karten et al., 2025. [[Paper](https://arxiv.org/abs/2507.15815)]
+- **LLM Economist:** Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra, `arxiv, 2025.07`. [[Paper](https://arxiv.org/abs/2507.15815)]
 
-- Social Welfare Function Leaderboard: When LLM Agents Allocate Social Welfare. Zhengliang Shi et al., 2025. [[Paper](https://arxiv.org/abs/2510.01164)]
+- Social Welfare Function Leaderboard: When LLM Agents Allocate Social Welfare, `arxiv, 2025.10`. [[Paper](https://arxiv.org/abs/2510.01164)]
 
-- **Simulated Economic Agents** - Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus? John J. Horton et al., 2026. [[Paper](https://www.nber.org/papers/w31122)]
+- RISE: Self-Improving Robot Policy with Compositional World Model, `arxiv, 2026.02`. [[Paper]](https://arxiv.org/abs/2602.11075) [[Project]](https://opendrivelab.com/kai0-rl/)
 
 ---
 
 
 ## Benchmark
 
-- **PolicySimEval:** A Benchmark for Evaluating Policy Outcomes through Agent-Based Simulation. Jiaju Kang et al., 2025. [[Paper](https://arxiv.org/abs/2502.07853)]
+- **PolicySimEval:** A Benchmark for Evaluating Policy Outcomes through Agent-Based Simulation, `arxiv, 2025.02`. [[Paper](https://arxiv.org/abs/2502.07853)]
 
-- **ConsintBench:** Evaluating Language Models on Real-World Consumer Intent Understanding. Xiaozhe Li et al., 2025. [[Paper](https://arxiv.org/abs/2510.13499)]
+- **ConsintBench:** Evaluating Language Models on Real-World Consumer Intent Understanding, `arxiv, 2025.10`. [[Paper](https://arxiv.org/abs/2510.13499)]
 
-- **Prompting for Policy:** Forecasting Macroeconomic Scenarios with Synthetic LLM Personas. Giulia Iadisernia et al., 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3768292.3770385)]
+- **Prompting for Policy:** Forecasting Macroeconomic Scenarios with Synthetic LLM Personas, `ACM, 2025.02`. [[Paper](https://dl.acm.org/doi/full/10.1145/3768292.3770385)]
 
 ---
 
