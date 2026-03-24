@@ -20,7 +20,7 @@
 
 
 ## 🔥 News
-- [2026/03/23] Initial release of the Awesome-Econ-World-Models GitHub repository.
+- [2026/03/24] Initial release of the Awesome-Econ-World-Models GitHub repository.
 
 ## 🌐 What is an Economic World Model?
 
