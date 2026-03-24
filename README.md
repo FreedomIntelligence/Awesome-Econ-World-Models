@@ -207,13 +207,13 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 - **GPT Economic Rationality**: "The Emergence of Economic Rationality of GPT" `arXiv 2023.05`. [[Paper](https://arxiv.org/abs/2305.12763)]
 
-- **LASER&BEAM**: "Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility" `UTD-INFORMS J Comput 2024.11`. [[Paper](https://doi.org/10.1287/ijoc.2022.0055)]
-
 - **Strategic Prompt Engineering**: "The Crowdless Future? Generative AI and Creative Problem-Solving" `UTD-Organ. Sci. 2024.09`. [[Paper](https://doi.org/10.1287/orsc.2023.18430)]
 
-- **Persona-based Prompting**: "Prompting for Policy: Forecasting Macroeconomic Scenarios with Synthetic LLM Personas" `ICAIF 2025.11`. [[Paper](https://doi.org/10.1145/3768292.3770385)]
+- **LASER&BEAM**: "Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility" `UTD-INFORMS J Comput 2024.11`. [[Paper](https://doi.org/10.1287/ijoc.2022.0055)]
 
 - **Context-Aware LLM for Market Impact**: "Context-Aware Language Models for Forecasting Market Impact from Sequences of Financial News" `arXiv 2025.09`. [[Paper](https://arxiv.org/abs/2509.12519)]
+
+- **Persona-based Prompting**: "Prompting for Policy: Forecasting Macroeconomic Scenarios with Synthetic LLM Personas" `ICAIF 2025.11`. [[Paper](https://doi.org/10.1145/3768292.3770385)]
 
 ### 🤖 Multi-Agent Economic Simulation
 
@@ -222,9 +222,9 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 - **ACE1**: "Agent-Based Computational Economics: Growing Economies From the Bottom Up" `Artif. Life 2002.01`. [[Paper](https://doi.org/10.1162/106454602753694765)]
 
-- **ACE2**: "Handbook of Computational Economics, Vol. 2: Agent-Based Computational Economics" `INFORMS J. Appl. Anal. 2007.05`. [[Paper](https://www.proquest.com/openview/9078c2bf5489543503e757f6167ad313/1?pq-origsite=gscholar&cbl=6197)]
-
 - **ABM Financial Markets Survey**: "Agent-Based Models of Financial Markets" `arXiv 2007.01`. [[Paper](https://arxiv.org/abs/physics/0701140)]
+
+- **ACE2**: "Handbook of Computational Economics, Vol. 2: Agent-Based Computational Economics" `INFORMS J. Appl. Anal. 2007.05`. [[Paper](https://www.proquest.com/openview/9078c2bf5489543503e757f6167ad313/1?pq-origsite=gscholar&cbl=6197)]
 
 - **ABM in Econ**: "Agent‐Based Modelling in Economics" `Wiley 2015.11`. [[Paper](https://doi.org/10.1002/9781118945520)]
 
