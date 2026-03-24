@@ -253,9 +253,9 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 - **Framework**: "A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis" `arXiv 2025.02`. [[Paper](https://arxiv.org/abs/2502.16879)]
 
-- **Digital Twin Behavioral Dataset**: "Twin-2K-500: A Data Set for Building Digital Twins of over 2,000 People Based on Their Answers to over 500 Questions" `arXiv 2025.03`. [[Paper](https://arxiv.org/abs/2505.17479)]
-
 - **LLM Trading Agents**: "Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations" `arXiv 2025.04`. [[Paper](https://arxiv.org/abs/2504.10789)]
+
+- **Digital Twin Behavioral Dataset**: "Twin-2K-500: A Data Set for Building Digital Twins of over 2,000 People Based on Their Answers to over 500 Questions" `arXiv 2025.05`. [[Paper](https://arxiv.org/abs/2505.17479)]
 
 - **TwinMarket**: "TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets" `arXiv 2025.10`. [[Paper](https://arxiv.org/abs/2502.01506)]
 
