@@ -383,10 +383,12 @@ If you find this repository helpful, please consider starring it ⭐ and citing:
 ```
 @misc{econwm2026econwmpaperslist,
     title = {Awesome-Econ-World-Models},
+    author = {Jiale Han and Jing Qian and Chengrui Zhang and Wenyuan Gu and Benyou Wang},
     journal = {GitHub repository},
     url = {https://github.com/FreedomIntelligence/Awesome-Econ-World-Models},
     year = {2026}
 }
+
 ```
 
 We welcome contributions on papers, projects, benchmarks, tutorials, and blog posts. Please feel free to open a pull request or issue if you would like to add relevant resources.
