@@ -391,4 +391,4 @@ If you find this repository helpful, please consider starring it ⭐ and citing:
 
 ```
 
-We welcome contributions on papers, projects, benchmarks, tutorials, and blog posts. Please feel free to open a pull request or issue if you would like to add relevant resources.
+We welcome contributions on papers, projects, benchmarks, tutorials, and blog posts. Please feel free to open an issue if you would like to add relevant resources.
