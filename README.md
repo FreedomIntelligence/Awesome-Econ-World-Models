@@ -249,7 +249,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 - **ASFM**: "Simulating Financial Market via Large Language Model based Agents" `arXiv 2024.06`. [[Paper](https://arxiv.org/abs/2406.19966)]
 
-- **TradingAgents**: "TradingAgents: Multi-Agents LLM Financial Trading Framework" `arXiv 2024.12`. [[Paper](https://arxiv.org/abs/2412.20138)]
+- **TradingAgents**: "TradingAgents: Multi-Agents LLM Financial Trading Framework" `arXiv 2024.12`. [[Paper]](https://arxiv.org/abs/2412.20138) [[Project]](https://github.com/TauricResearch/TradingAgents)
 
 - **Framework**: "A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis" `arXiv 2025.02`. [[Paper](https://arxiv.org/abs/2502.16879)]
 
@@ -260,6 +260,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **TwinMarket**: "TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets" `arXiv 2025.10`. [[Paper](https://arxiv.org/abs/2502.01506)]
 
 - **Macro Expectation Simulation**: "Simulating Macroeconomic Expectations Using LLM Agents" `arXiv 2025.11`. [[Paper](https://arxiv.org/abs/2505.17648)]
+- 
 
 ### 🌍 Environment-Centric Economic World Models
 - **Environment + Single Agent**: "AlphaManager: A Data-Driven-Robust-Control Approach to Corporate Finance" `SSRN 2025.03`. [[Paper](http://dx.doi.org/10.2139/ssrn.4590323)]
@@ -267,7 +268,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **Game-Theoretic XAI Regulation Model**: "Regulating Explainable Artificial Intelligence (XAI) May Harm Consumers" `UTD-Mark. Sci. 2025.05`. [[Paper](https://doi.org/10.1287/mksc.2022.0396)]
 
 - **Algorithmic Lending Competition Model**: "Algorithmic Lending, Competition, and Strategic Provision of Preapproval Tools" `UTD-Mark. Sci. 2025.08`. [[Paper](https://doi.org/10.1287/mksc.2023.0164)]
----
+
 
 
 ## Applications
