@@ -260,7 +260,6 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **TwinMarket**: "TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets" `arXiv 2025.10`. [[Paper](https://arxiv.org/abs/2502.01506)]
 
 - **Macro Expectation Simulation**: "Simulating Macroeconomic Expectations Using LLM Agents" `arXiv 2025.11`. [[Paper](https://arxiv.org/abs/2505.17648)]
-- 
 
 ### 🌍 Environment-Centric Economic World Models
 - **Environment + Single Agent**: "AlphaManager: A Data-Driven-Robust-Control Approach to Corporate Finance" `SSRN 2025.03`. [[Paper](http://dx.doi.org/10.2139/ssrn.4590323)]
