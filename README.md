@@ -262,7 +262,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 - **Macro Expectation Simulation**: "Simulating Macroeconomic Expectations Using LLM Agents" `arXiv 2025.11`. [[Paper](https://arxiv.org/abs/2505.17648)]
 
-- MALLES: A Multi-agent LLMs-based Economic Sandbox with Consumer Preference Alignment, `arXiv 2026.03`. [[Paper]](https://arxiv.org/pdf/2603.17694)
+- **MALLES**: A Multi-agent LLMs-based Economic Sandbox with Consumer Preference Alignment, `arXiv 2026.03`. [[Paper]](https://arxiv.org/pdf/2603.17694)
 
 ### 🌍 Environment-Centric Economic World Models
 - **Environment + Single Agent**: "AlphaManager: A Data-Driven-Robust-Control Approach to Corporate Finance" `SSRN 2025.03`. [[Paper](http://dx.doi.org/10.2139/ssrn.4590323)]
