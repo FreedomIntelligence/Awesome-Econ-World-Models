@@ -265,6 +265,8 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **MALLES**: "A Multi-agent LLMs-based Economic Sandbox with Consumer Preference Alignment" `arXiv 2026.03`. [[Paper]](https://arxiv.org/pdf/2603.17694)
 
 ### 🌍 Environment-Centric Economic World Models
+- **Credit Markets Environment**: "Writing Quality and Soft Information in the GenAI Age: Evidence from Online Credit Markets" `SSRN 2024.12`. [[Paper](http://dx.doi.org/10.2139/ssrn.4959535)]
+
 - **Environment + Single Agent**: "AlphaManager: A Data-Driven-Robust-Control Approach to Corporate Finance" `SSRN 2025.03`. [[Paper](http://dx.doi.org/10.2139/ssrn.4590323)]
 
 - **Game-Theoretic XAI Regulation Model**: "Regulating Explainable Artificial Intelligence (XAI) May Harm Consumers" `UTD-Mark. Sci. 2025.05`. [[Paper](https://doi.org/10.1287/mksc.2022.0396)]
