@@ -198,7 +198,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 - **Knowledge-Enhanced Text Embedding**: "Analyzing Firm Reports for Volatility Prediction: A Knowledge-Driven Text-Embedding Approach" `UTD-INFORMS J Comput 2022.01`. [[Paper](https://doi.org/10.1287/ijoc.2020.1046)]
 
-- **BloombergGPT**: "BloombergGPT: A Large Language Model for Finance" ` arXiv 2023.03`. [[Paper](https://arxiv.org/abs/2303.17564)]
+- **BloombergGPT**: "BloombergGPT: A Large Language Model for Finance" `arXiv 2023.03`. [[Paper](https://arxiv.org/abs/2303.17564)]
 
 ### 🧠 Prompt- and Context-Based Economic Agents
 
