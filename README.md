@@ -252,7 +252,7 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 - **TradingAgents**: "TradingAgents: Multi-Agents LLM Financial Trading Framework" `arXiv 2024.12`. [[Paper]](https://arxiv.org/abs/2412.20138) [[Project]](https://github.com/TauricResearch/TradingAgents)
 
-- **Framework**: "A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis" `arXiv 2025.02`. [[Paper](https://arxiv.org/abs/2502.16879)]
+- **Policy Analysis Framework**: "A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis" `arXiv 2025.02`. [[Paper](https://arxiv.org/abs/2502.16879)]
 
 - **LLM Trading Agents**: "Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations" `arXiv 2025.04`. [[Paper](https://arxiv.org/abs/2504.10789)]
 
