@@ -19,15 +19,6 @@
 
 
 
-## 🔥 News
-- [2026/03/24] Initial release of the Awesome-Econ-World-Models GitHub repository.
-
-## 🌐 What is an Economic World Model?
-
-An Economic World Model (EconWM) is a data-driven **imagination engine** for understanding and simulating economic systems, enabling humans and machines to explore *what-if* futures under alternative actions and interventions.
-
----
-
 ## 🗂️ Table of Contents
 
 - [Getting Started with World Models](#getting-started-with-world-models)
@@ -381,19 +372,3 @@ This section traces the evolution of economic modeling from rules and data to ag
 - **Global Economic Model** [[Link](https://www.oxfordeconomics.com/service/subscription-services/macro/global-economic-model/)]
 
 ---
-
-## 📝 Citation
-
-If you find this repository helpful, please consider starring it ⭐ and citing: 
-```
-@misc{econwm2026econwmpaperslist,
-    title = {Awesome-Econ-World-Models},
-    author = {Jiale Han and Jing Qian and Chengrui Zhang and Wenyuan Gu and Benyou Wang},
-    journal = {GitHub repository},
-    url = {https://github.com/FreedomIntelligence/Awesome-Econ-World-Models},
-    year = {2026}
-}
-
-```
-
-We welcome contributions on papers, projects, benchmarks, tutorials, and blog posts. Please feel free to open an issue if you would like to add relevant resources.
