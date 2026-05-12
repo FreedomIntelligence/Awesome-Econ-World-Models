@@ -51,17 +51,25 @@
 
 Broad overviews that help newcomers understand the landscape.
 
-- Understanding World or Predicting Future? A Survey of World Models, `arxiv, 2024.11`. [[Paper](https://arxiv.org/abs/2411.14499)]
-  
-- From Efficient Multimodal Models to World Models: A Survey, `arxiv, 2024.07`. [[Paper](https://arxiv.org/abs/2407.00118)]
+- "The economy needs agent-based modelling", `Nature 2009.08`. [[Paper](https://doi.org/10.1038/460685a)]
 
-- A Comprehensive Survey on World Models for Embodied AI, `arxiv, 2025.10`. [[Paper](https://arxiv.org/abs/2510.16732)]
+- "The rise and potential of large language model based agents: A survey", `arXiv 2023.09`. [[Paper](https://arxiv.org/abs/2309.07864)]
 
-- Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond, `arxiv, 2024.05`. [[Paper](https://arxiv.org/abs/2405.03520)]
+- "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond", `arxiv 2024.05`. [[Paper](https://arxiv.org/abs/2405.03520)]
 
-- World models for autonomous driving: An initial survey, `IEEE Transactions on Intelligent Vehicles, 2024.05`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10522953)]
+- "World models for autonomous driving: An initial survey", `IEEE Transactions on Intelligent Vehicles 2024.05`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10522953)]
 
-- Learning to Model the World: A Survey of World Models in Artificial Intelligence, `Preprints.org, 2026.03`. [[Paper](https://www.preprints.org/manuscript/202603.0739)]
+- "A review of prominent paradigms for llm-based agents: Tool use, planning (including rag), and feedback learning", `Proceedings of the 31st international conference on computational linguistics 2024.06`. [[Paper](https://arxiv.org/abs/2406.05804v6)]
+
+- "From Efficient Multimodal Models to World Models: A Survey", `arxiv 2024.07`. [[Paper](https://arxiv.org/abs/2407.00118)]
+
+- "Understanding World or Predicting Future? A Survey of World Models", `arxiv 2024.11`. [[Paper](https://arxiv.org/abs/2411.14499)]
+
+- "Agentic AI: Autonomous intelligence for complex goals—A comprehensive survey", `IEEE Access 2025.01`. [[Paper](https://doi.org/10.1109/ACCESS.2025.3532853)]
+
+- "A Comprehensive Survey on World Models for Embodied AI", `arxiv 2025.10`. [[Paper](https://arxiv.org/abs/2510.16732)]
+
+- "Learning to Model the World: A Survey of World Models in Artificial Intelligence", `Preprints.org 2026.03`. [[Paper](https://www.preprints.org/manuscript/202603.0739)]
 
 ### 🔹 General World Models
 
