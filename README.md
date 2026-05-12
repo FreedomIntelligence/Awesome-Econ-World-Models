@@ -408,8 +408,6 @@ This section traces the evolution of economic modeling from rules and data to ag
 
 - **Bank Run Sim**: "Bank Run, Interrupted: Modeling Deposit Withdrawals with Generative AI", `SSRN 2023.12`. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4656722)]
 
-- **ABIDES-Economist**: "Agent-Based Simulator of Economic Systems with Learning Agents", `arxiv 2024.02`. [[Paper](https://arxiv.org/abs/2402.09563)]
-
 - **Automated social science**: "Language Models as Scientist and Subjects", `NBER 2024.04`. [[Paper](https://www.nber.org/papers/w32381)]
 
 - **Stockagent**: "When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments", `arxiv 2024.07`. [[Paper](https://arxiv.org/abs/2407.18957)]
