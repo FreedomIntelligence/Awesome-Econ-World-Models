@@ -75,27 +75,29 @@ Broad overviews that help newcomers understand the landscape.
 
 Foundational papers that shape the modern notion of learning internal models of environment dynamics.
 
-- World Models, `arxiv, 2018.03`. [[Paper](https://arxiv.org/abs/1803.10122)]
+- "World Models", `arxiv 2018.03`. [[Paper](https://arxiv.org/abs/1803.10122)]
 
-- Recurrent World Models Facilitate Policy Evolution, `NeurIPS, 2018.12`. [[Paper](https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)]
+- "Recurrent World Models Facilitate Policy Evolution", `NeurIPS 2018.12`. [[Paper](https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)]
 
-- Dream to Control: Learning Behaviors by Latent Imagination, `arxiv, 2019.12`. [[Paper](https://arxiv.org/abs/1912.01603)]
- 
-- Mastering Atari with Discrete World Models (DreamerV2), `arxiv, 2020.10`. [[Paper](https://arxiv.org/abs/2010.02193)]
+- "Dream to Control: Learning Behaviors by Latent Imagination", `arxiv 2019.12`. [[Paper](https://arxiv.org/abs/1912.01603)]
 
-- A Generalist Agent, `arxiv, 2022.05`. [[Paper](https://arxiv.org/abs/2205.06175)]
+- "Mastering Atari with Discrete World Models (DreamerV2)", `arxiv 2020.10`. [[Paper](https://arxiv.org/abs/2010.02193)]
 
-- A Path Towards Autonomous Machine Intelligence (JEPA), `OpenReview, 2022.06`. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf&utm_source=pocket_mylist)]
+- "A Generalist Agent", `arxiv 2022.05`. [[Paper](https://arxiv.org/abs/2205.06175)]
 
-- Inner Monologue: Embodied Reasoning through Planning with Language Models, `arxiv, 2022.07`. [[Paper](https://arxiv.org/abs/2207.05608)]
+- "A Path Towards Autonomous Machine Intelligence (JEPA)", `OpenReview 2022.06`. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf&utm_source=pocket_mylist)]
 
-- Mastering Diverse Domains through World Models (DreamerV3), `arxiv, 2023.01`. [[Paper](https://arxiv.org/abs/2301.04104)]
+- "A path towards autonomous machine intelligence version 0.9. 2, 2022-06-27", `OpenReview 2022.06`. [[Paper](https://openreview.net/forum?id=BZ5a1r-kVsf)]
 
-- Language Models Represent Space and Time, arxiv, `2023.10`. [[Paper](https://arxiv.org/abs/2310.02207)]
+- "Inner Monologue: Embodied Reasoning through Planning with Language Models", `arxiv 2022.07`. [[Paper](https://arxiv.org/abs/2207.05608)]
 
-- Mastering Diverse Control Tasks Through World Models, Nature, `2025.04`. [[Paper](https://www.nature.com/articles/s41586-025-08744-2)]
+- "Mastering Diverse Domains through World Models (DreamerV3)", `arxiv 2023.01`. [[Paper](https://arxiv.org/abs/2301.04104)]
 
-- General Agents Need World Models, `ICML, 2025.07`. [[Paper](https://openreview.net/forum?id=dlIoumNiXt)]
+- "Language Models Represent Space and Time, arxiv", `2023.10`. [[Paper](https://arxiv.org/abs/2310.02207)]
+
+- "Mastering Diverse Control Tasks Through World Models, Nature", `2025.04`. [[Paper](https://www.nature.com/articles/s41586-025-08744-2)]
+
+- "General Agents Need World Models", `ICML 2025.07`. [[Paper](https://openreview.net/forum?id=dlIoumNiXt)]
 
 
 ### 🎬 Generative and Interactive World Models
