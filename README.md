@@ -29,11 +29,11 @@
 - [Blogs and Perspectives](#-blogs-and-perspectives)
 
 - [The World-Building Ladder: A Taxonomy of EconWM Capabilities](#-the-world-building-ladder-a-taxonomy-of-econwm-capabilities)
-  - [L1: Fixed Rule-Based Agent Worlds](#️-l1-fixed-rule-based-agent-worlds)
+  - [L1: Fixed Rule-Based Agent Worlds](#-l1-fixed-rule-based-agent-worlds)
   - [L2: Adaptive Rule-Based Agent Worlds](#-l2-adaptive-rule-based-agent-worlds)
   - [L3: LLM-Based Autonomous Agent Worlds](#-l3-llm-based-autonomous-agent-worlds)
   - [L4: Self-Evolving Agent Worlds](#-l4-self-evolving-agent-worlds)
-  - [L5: Evolving Economic Worlds](#️-l5-evolving-economic-worlds)
+  - [L5: Evolving Economic Worlds](#-l5-evolving-economic-worlds)
   - [L6: Sim-to-Real Economic Twins](#-l6-sim-to-real-economic-twins)
 
 - [How We Arrived at Economic World Models](#-how-we-arrived-at-economic-world-models)
@@ -47,7 +47,7 @@
   - [Sandbox for Humans](#-sandbox-for-humans)
   - [Economic Brain for Machines](#-economic-brain-for-machines)
   
-- [Projects and Platforms](#️-projects-and-platforms)
+- [Projects and Platforms](#-projects-and-platforms)
 
 ---
 
@@ -77,7 +77,7 @@ Broad overviews that help newcomers understand the landscape.
 - "Learning to Model the World: A Survey of World Models in Artificial Intelligence", `Preprints.org 2026.03`. [[Paper](https://www.preprints.org/manuscript/202603.0739)]
 </details>
 <details>
-<summary><h3> 🔹 General World Models</h3></summary>
+<summary><h3 id="-general-world-models"> 🔹 General World Models</h3></summary>
 
 Foundational papers that shape the modern notion of learning internal models of environment dynamics.
 
@@ -106,7 +106,7 @@ Foundational papers that shape the modern notion of learning internal models of 
 - "General Agents Need World Models", `ICML 2025.07`. [[Paper](https://openreview.net/forum?id=dlIoumNiXt)]
 </details>
 <details>
-<summary><h3> 🎬 Generative and Interactive World Models</h3></summary>
+<summary><h3 id="-generative-and-interactive-world-models"> 🎬 Generative and Interactive World Models</h3></summary>
 
 Representative works that extend world models from latent RL environments to multimodal generation, interactive simulation, and embodied environments.
 
@@ -172,7 +172,7 @@ To organize existing systems and clarify the path forward, we propose a six-leve
   <img src="images/levels_literature.png" width="800">
 </p>
 <details>
-<summary><h3> 🏗️ L1: Fixed Rule-Based Agent Worlds</h3></summary>
+<summary><h3 id="-l1-fixed-rule-based-agent-worlds"> 🏗️ L1: Fixed Rule-Based Agent Worlds</h3></summary>
 
 - **Asset Price Feedback Trades**: "ASSET PRICE DYNAMICS AND INFREQUENT FEEDBACK TRADES", `UTD-JF 1995.12`. [[Paper](https://dx.doi.org/10.2307/2329334)]
 
@@ -897,7 +897,7 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 - **Herd-Aggregate Fluctuations**: "Herd behavior and aggregate fluctuations in financial markets", `arXiv 2097.12`. [[Paper](https://arxiv.org/abs/cond-mat/9712318v2)]
 </details>
 <details>
-<summary><h3> 🔄 L2: Adaptive Rule-Based Agent Worlds</h3></summary>
+<summary><h3 id="-l2-adaptive-rule-based-agent-worlds"> 🔄 L2: Adaptive Rule-Based Agent Worlds</h3></summary>
 
 - **Signals & Choices Competition**: "SIGNALS AND CHOICES IN A COMPETITIVE INTERACTION - THE ROLE OF MOVES AND MESSAGES", `UTD-Manage. Sci. 1992.04`. [[Paper](https://dx.doi.org/10.1287/mnsc.38.4.483)]
 
@@ -1498,7 +1498,7 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 - **Nested-Agent Info Economy**: "Learning Nested Agent Models in an Information Economy", `arXiv 2098.09`. [[Paper](https://arxiv.org/abs/cs/9809108v1)]
 </details>
 <details>
-<summary><h3> 🧬 L3: LLM-Based Autonomous Agent Worlds</h3></summary>
+<summary><h3 id="-l3-llm-based-autonomous-agent-worlds"> 🧬 L3: LLM-Based Autonomous Agent Worlds</h3></summary>
 
 - **GPT Firm Competition Modeling**: ""Guinea Pig Trials" Utilizing GPT: A Novel Smart Agent-Based Modeling Approach for Studying Firm Competition and Collusion", `arXiv 2023.08`. [[Paper](https://arxiv.org/abs/2308.10974v4)]
 
@@ -1571,7 +1571,7 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 - **AI Info Aggregation**: "Information Aggregation with AI Agents", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.20050v1)]
 </details>
 <details>
-<summary><h3> 📈 L4: Self-Evolving Agent Worlds</h3></summary>
+<summary><h3 id="-l4-self-evolving-agent-worlds"> 📈 L4: Self-Evolving Agent Worlds</h3></summary>
 
 - **Agent Trading Arena**: "Agent Trading Arena: A Study on Numerical Understanding in LLM-Based Agents", `arXiv 2025.02`. [[Paper](https://arxiv.org/abs/2502.17967v2)]
 
@@ -1588,7 +1588,7 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 - **Prompt-Optimized Collusion**: "Prompt Optimization Enables Stable Algorithmic Collusion in LLM Agents", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.17774v1)]
 </details>
 <details>
-<summary><h3> 🗺️ L5: Evolving Economic Worlds</h3></summary>
+<summary><h3 id="-l5-evolving-economic-worlds"> 🗺️ L5: Evolving Economic Worlds</h3></summary>
 
 - **OLIGO Spatial Election**: "Modeling Oligarchs' Campaign Donations and Ideological Preferences with Simulated Agent-Based Spatial Elections", `arXiv 2013.10`. [[Paper](https://arxiv.org/abs/1310.7134v2)]
 
@@ -1657,7 +1657,7 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 - **Stochastic Networked Governance**: "Stochastic Networked Governance: Bridging Econophysics and Institutional Dynamics in a Positive-Sum Agent-Based Model", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.19968v1)]
 </details>
 <details>
-<summary><h3> 🔗 L6: Sim-to-Real Economic Twins</h3></summary>
+<summary><h3 id="-l6-sim-to-real-economic-twins"> 🔗 L6: Sim-to-Real Economic Twins</h3></summary>
 
 - **Minority-Game Reverse-Engineering**: "Reverse Engineering Financial Markets with Majority and Minority Games using Genetic Algorithms", `arXiv 2010.02`. [[Paper](https://arxiv.org/abs/1002.2171v1)]
 
@@ -1674,7 +1674,7 @@ In this section, we take a historical view how AI for economics arrived at the n
   <img src="images/roadmap.png" width="800">
 </p>
 <details>
-<summary><h3> 📏 Feature Engineering</h3></summary>
+<summary><h3 id="-feature-engineering"> 📏 Feature Engineering</h3></summary>
 
 - **Text-Based Volatility Signal**: "News Implied Volatility and Disaster Concerns", `UTD-JFE 2017.01`. [[Paper](https://doi.org/10.1016/j.jfineco.2016.01.032)]
 
@@ -1689,7 +1689,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **Feature Engineering for ML Signals**: "Machine Learning from a Universe of Signals: The Role of Feature Engineering", `UTD-JFE 2025.10`. [[Paper](https://doi.org/10.1016/j.jfineco.2025.104138)]
 </details>
 <details>
-<summary><h3> 📊 Data Engineering</h3></summary>
+<summary><h3 id="-data-engineering"> 📊 Data Engineering</h3></summary>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep Learning
 - **Dynamic Graph Neural Network for Stocks**: "Inductive Representation Learning on Dynamic Stock Co-Movement Graphs for Stock Predictions", `UTD-INFORMS J. Comput. 2022.07`. [[Paper](https://doi.org/10.1287/ijoc.2022.1172)]
@@ -1710,7 +1710,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **FinGPT**: "FinGPT: Open-Source Financial Large Language Models", `FinLLM@IJCAI 2023.06`. [[Paper](https://arxiv.org/abs/2306.06031v2)]
 </details>
 <details>
-<summary><h3> 🧠 Prompt Engineering</h3></summary>
+<summary><h3 id="-prompt-engineering"> 🧠 Prompt Engineering</h3></summary>
 
 - **GPT-3**: "Language Models are Few-Shot Learners", `NeurIPS 2020.05`. [[Paper](https://arxiv.org/abs/2005.14165)]
 
@@ -1737,7 +1737,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **Prompt-Optimized Collusion**: "Prompt Optimization Enables Stable Algorithmic Collusion in LLM Agents", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.17774)]
 </details>
 <details>
-<summary><h3> 🤖 Context Engineering</h3></summary>
+<summary><h3 id="-context-engineering"> 🤖 Context Engineering</h3></summary>
 
 - **TradingGPT**: "Tradinggpt: Multi-agent system with layered memory and distinct characters for enhanced financial trading performance", `arXiv 2023.09`. [[Paper](https://arxiv.org/abs/2309.03736)]
 
@@ -1754,7 +1754,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **Macro Expectation Simulation**: "Simulating Macroeconomic Expectations Using LLM Agents", `arXiv 2025.11`. [[Paper](https://arxiv.org/abs/2505.17648)]
 </details>
 <details>
-<summary><h3> 🌍 Environment Engineering</h3></summary>
+<summary><h3 id="-environment-engineering"> 🌍 Environment Engineering</h3></summary>
 
 - **ACE Handbook**: "Agent-based computational economics: A constructive approach to economic theory", `Handb. Comput. Econ. 2006`. [[Paper](https://doi.org/10.1016/S1574-0021(05)02016-2)]
 
@@ -1785,7 +1785,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 ## 📱 Applications
 <details>
-<summary><h3> 🏢 Sandbox for Humans</h3></summary>
+<summary><h3 id="-sandbox-for-humans"> 🏢 Sandbox for Humans</h3></summary>
 
 - **LLM Human Replication**: "Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies", `arxiv 2022.08`. [[Paper](https://arxiv.org/abs/2208.10264)]
 
@@ -1826,7 +1826,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **LLM Consumption-Savings**: "Consumption and Savings with Large Language Model Agents", `SSRN 2026.02`. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6037936)]
 </details>
 <details>
-<summary><h3> 💻 Economic Brain for Machines</h3></summary>
+<summary><h3 id="-economic-brain-for-machines"> 💻 Economic Brain for Machines</h3></summary>
 
 - **The AI Economist**: "Taxation Policy Design via Two-level Deep Multiagent Reinforcement Learning", `Science Advances 2022.05`. [[Paper](https://www.science.org/doi/full/10.1126/sciadv.abk2607)]
 
