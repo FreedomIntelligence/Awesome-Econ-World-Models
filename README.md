@@ -218,9 +218,19 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 ### 🤖 Context Engineering
 
+- **TradingGPT**: "Tradinggpt: Multi-agent system with layered memory and distinct characters for enhanced financial trading performance", `arXiv 2023.09`. [[Paper](https://arxiv.org/abs/2309.03736)]
+
+- **FinMem**: "FinMem: A Performance-Enhanced LLM Trading Agent With Layered Memory and Character Design", `IEEE TBD 2023.11`. [[Paper](https://arxiv.org/abs/2311.13743v2)]
+
 - **LASER&BEAM**: "Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility", `UTD-INFORMS J Comput 2024.11`. [[Paper](https://doi.org/10.1287/ijoc.2022.0055)]
 
 - **Context-Aware LLM for Market Impact**: "Context-Aware Language Models for Forecasting Market Impact from Sequences of Financial News", `arXiv 2025.09`. [[Paper](https://arxiv.org/abs/2509.12519)]
+
+- **TwinMarket**: "TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets", `arXiv 2025.10`. [[Paper](https://arxiv.org/abs/2502.01506)]
+
+- **TG-RAG**: "RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge", `arXiv 2025.10`. [[Paper](https://arxiv.org/abs/2510.13590)]
+
+- **Macro Expectation Simulation**: "Simulating Macroeconomic Expectations Using LLM Agents", `arXiv 2025.11`. [[Paper](https://arxiv.org/abs/2505.17648)]
 
 ### 🌍 Environment-Centric Economic World Models
 - **Credit Markets Environment**: "Writing Quality and Soft Information in the GenAI Age: Evidence from Online Credit Markets", `SSRN 2024.12`. [[Paper](http://dx.doi.org/10.2139/ssrn.4959535)]
