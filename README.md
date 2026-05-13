@@ -141,8 +141,8 @@ Representative works that extend world models from latent RL environments to mul
 - **EgoAgent**: "A Joint Predictive Agent Model in Egocentric Worlds", `ICCV 2025.10`. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_EgoAgent_A_Joint_Predictive_Agent_Model_in_Egocentric_Worlds_ICCV_2025_paper.html)]
 
 - **HERMES**: "A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation", `ICCV 2025.10`. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_HERMES_A_Unified_Self-Driving_World_Model_for_Simultaneous_3D_Scene_ICCV_2025_paper.html)]
-</details>
 ---
+</details>
 
 ## 📝 Blogs and Perspectives
 
