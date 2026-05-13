@@ -248,7 +248,7 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 
 - **Order Book Asymmetry**: "Asymmetric statistics of order books: The role of discreteness and evidence for strategic order placement", `arXiv 2009.06`. [[Paper](https://arxiv.org/abs/0906.1387v3)]
 
-- "How to Win "Spend" and Influence Partners: Lessons in Behavioral Operations from the Outsourcing Game", `UTD-POM 2009.11`. [[Paper](https://dx.doi.org/10.1111/j.1937-5956.2009.01036.x)]
+- **Outsourcing Behavioral Operations**: "How to Win "Spend" and Influence Partners: Lessons in Behavioral Operations from the Outsourcing Game", `UTD-POM 2009.11`. [[Paper](https://dx.doi.org/10.1111/j.1937-5956.2009.01036.x)]
 
 - **Space-Time Volatility Clustering**: "A new space-time model for volatility clustering in the financial market", `arXiv 2010.02`. [[Paper](https://arxiv.org/abs/1002.0609v1)]
 
@@ -390,7 +390,7 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 
 - **Econophysics Macro Model**: "Econophysics Macroeconomic Model", `arXiv 2017.01`. [[Paper](https://arxiv.org/abs/1701.06625v1)]
 
-- "Econophysics of Macroeconomics: "Action-at-a-Distance" and Waves", `arXiv 2017.02`. [[Paper](https://arxiv.org/abs/1702.02763v1)]
+- **Action-at-Distance Waves**: "Econophysics of Macroeconomics: "Action-at-a-Distance" and Waves", `arXiv 2017.02`. [[Paper](https://arxiv.org/abs/1702.02763v1)]
 
 - **SEAL Administrative Boundaries**: "An applied spatial agent-based model of administrative boundaries using SEAL", `arXiv 2017.02`. [[Paper](https://arxiv.org/abs/1702.03226v2)]
 
@@ -1015,7 +1015,7 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 
 - **Spatial ABM Interactions**: "Spatial interactions in agent-based modeling", `arXiv 2014.05`. [[Paper](https://arxiv.org/abs/1405.0733v1)]
 
-- "Wealth share analysis with "fundamentalist/chartist" heterogeneous agents", `arXiv 2014.05`. [[Paper](https://arxiv.org/abs/1405.5939v1)]
+- **Fundamentalist-Chartist Wealth**: "Wealth share analysis with "fundamentalist/chartist" heterogeneous agents", `arXiv 2014.05`. [[Paper](https://arxiv.org/abs/1405.5939v1)]
 
 - **Asymmetric Herding ABM**: "Agent-based model with asymmetric trading and herding for complex financial systems", `arXiv 2014.07`. [[Paper](https://arxiv.org/abs/1407.5258v1)]
 
