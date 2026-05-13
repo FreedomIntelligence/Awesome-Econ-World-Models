@@ -28,7 +28,7 @@
   
 - [Blogs and Perspectives](#-blogs-and-perspectives)
 
-- [The World-Building Ladder: A Taxonomy of Economic World Models' Capabilities](#-the-world-building-ladder-a-taxonomy-of-economic-world-models'-capabilities)
+- [The World-Building Ladder: A Taxonomy of Economic World Models' Capabilities](#-the-world-building-ladder-a-taxonomy-of-economic-world-models-capabilities)
   - [L1: Fixed Rule-Based Agent Worlds](#-l1-fixed-rule-based-agent-worlds)
   - [L2: Adaptive Rule-Based Agent Worlds](#-l2-adaptive-rule-based-agent-worlds)
   - [L3: LLM-Based Autonomous Agent Worlds](#-l3-llm-based-autonomous-agent-worlds)
