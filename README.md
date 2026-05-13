@@ -171,8 +171,8 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 <p align="center">
   <img src="images/levels_literature.png" width="800">
 </p>
-
-### 🏗️ L1: Fixed Rule-Based Agent Worlds
+<details>
+<summary><h3> 🏗️ L1: Fixed Rule-Based Agent Worlds</h3></summary>
 
 - **Asset Price Feedback Trades**: "ASSET PRICE DYNAMICS AND INFREQUENT FEEDBACK TRADES", `UTD-JF 1995.12`. [[Paper](https://dx.doi.org/10.2307/2329334)]
 
@@ -895,8 +895,9 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 - **EvoMarket Simulator**: "EvoMarket: A High-Fidelity and Scalable Financial Market Simulator", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.18046v1)]
 
 - **Herd-Aggregate Fluctuations**: "Herd behavior and aggregate fluctuations in financial markets", `arXiv 2097.12`. [[Paper](https://arxiv.org/abs/cond-mat/9712318v2)]
-
-### 🔄 L2: Adaptive Rule-Based Agent Worlds
+</details>
+<details>
+<summary><h3> 🔄 L2: Adaptive Rule-Based Agent Worlds</h3></summary>
 
 - **Signals & Choices Competition**: "SIGNALS AND CHOICES IN A COMPETITIVE INTERACTION - THE ROLE OF MOVES AND MESSAGES", `UTD-Manage. Sci. 1992.04`. [[Paper](https://dx.doi.org/10.1287/mnsc.38.4.483)]
 
@@ -1495,8 +1496,9 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 - **Interdealer Broker Scaling**: "Scaling Laws for the Market Microstructure of the Interdealer Broker Markets", `arXiv 2098.08`. [[Paper](https://arxiv.org/abs/cond-mat/9808240v2)]
 
 - **Nested-Agent Info Economy**: "Learning Nested Agent Models in an Information Economy", `arXiv 2098.09`. [[Paper](https://arxiv.org/abs/cs/9809108v1)]
-
-### 🧬 L3: LLM-Based Autonomous Agent Worlds
+</details>
+<details>
+<summary><h3> 🧬 L3: LLM-Based Autonomous Agent Worlds</h3></summary>
 
 - **GPT Firm Competition Modeling**: ""Guinea Pig Trials" Utilizing GPT: A Novel Smart Agent-Based Modeling Approach for Studying Firm Competition and Collusion", `arXiv 2023.08`. [[Paper](https://arxiv.org/abs/2308.10974v4)]
 
@@ -1567,8 +1569,9 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 - **Solver-Sampler LLM Mismatch**: "When Reasoning Models Hurt Behavioral Simulation: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.11840v1)]
 
 - **AI Info Aggregation**: "Information Aggregation with AI Agents", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.20050v1)]
-
-### 📈 L4: Self-Evolving Agent Worlds
+</details>
+<details>
+<summary><h3> 📈 L4: Self-Evolving Agent Worlds</h3></summary>
 
 - **Agent Trading Arena**: "Agent Trading Arena: A Study on Numerical Understanding in LLM-Based Agents", `arXiv 2025.02`. [[Paper](https://arxiv.org/abs/2502.17967v2)]
 
@@ -1583,8 +1586,9 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 - **AIvilization**: "AIvilization v0: Toward Large-Scale Artificial Social Simulation with a Unified Agent Architecture and Adaptive Agent Profiles", `arXiv 2026.02`. [[Paper](https://arxiv.org/abs/2602.10429v1)]
 
 - **Prompt-Optimized Collusion**: "Prompt Optimization Enables Stable Algorithmic Collusion in LLM Agents", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.17774v1)]
-
-### 🗺️ L5: Evolving Economic Worlds
+</details>
+<details>
+<summary><h3> 🗺️ L5: Evolving Economic Worlds</h3></summary>
 
 - **OLIGO Spatial Election**: "Modeling Oligarchs' Campaign Donations and Ideological Preferences with Simulated Agent-Based Spatial Elections", `arXiv 2013.10`. [[Paper](https://arxiv.org/abs/1310.7134v2)]
 
@@ -1651,14 +1655,16 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 - **AgentCity Constitutional Governance**: "AgentCity: Constitutional Governance for Autonomous Agent Economies via Separation of Power", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.07007v1)]
 
 - **Stochastic Networked Governance**: "Stochastic Networked Governance: Bridging Econophysics and Institutional Dynamics in a Positive-Sum Agent-Based Model", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.19968v1)]
-
-### 🔗 L6: Sim-to-Real Economic Twins
+</details>
+<details>
+<summary><h3> 🔗 L6: Sim-to-Real Economic Twins</h3></summary>
 
 - **Minority-Game Reverse-Engineering**: "Reverse Engineering Financial Markets with Majority and Minority Games using Genetic Algorithms", `arXiv 2010.02`. [[Paper](https://arxiv.org/abs/1002.2171v1)]
 
 - **ADAGE**: "ADAGE: A generic two-layer framework for adaptive agent based modelling", `arXiv 2025.01`. [[Paper](https://arxiv.org/abs/2501.09429v1)]
 
 ---
+</details>
 
 ## 🌐 How We Arrived at Economic World Models
 
