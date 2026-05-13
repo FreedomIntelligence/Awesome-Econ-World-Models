@@ -51,8 +51,6 @@
 
 Broad overviews that help newcomers understand the landscape.
 
-- "The economy needs agent-based modelling", `Nature 2009.08`. [[Paper](https://doi.org/10.1038/460685a)]
-
 - "The rise and potential of large language model based agents: A survey", `arXiv 2023.09`. [[Paper](https://arxiv.org/abs/2309.07864)]
 
 - "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond", `arxiv 2024.05`. [[Paper](https://arxiv.org/abs/2405.03520)]
@@ -233,11 +231,24 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **Macro Expectation Simulation**: "Simulating Macroeconomic Expectations Using LLM Agents", `arXiv 2025.11`. [[Paper](https://arxiv.org/abs/2505.17648)]
 
 ### 🌍 Environment-Centric Economic World Models
+
+- **ACE Handbook**: "Agent-based computational economics: A constructive approach to economic theory", `Handb. Comput. Econ. 2006`. [[Paper](https://doi.org/10.1016/S1574-0021(05)]
+
+- **ABM Advocacy**: "The economy needs agent-based modelling", `Nature 2009.08`. [[Paper](https://doi.org/10.1038/460685a)]
+
+- **ABIDES**: "ABIDES: Towards high-fidelity multi-agent market simulation", `Proceedings of the 2020 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation 2019.04`. [[Paper](https://arxiv.org/abs/1904.12066)]
+
+- **TaxAI**: "TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning", `Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023.09`. [[Paper](https://arxiv.org/abs/2309.16307v2)]
+
+- **ABIDES-Economist**: "ABIDES-Economist: Agent-Based Simulator of Economic Systems with Learning Agents", `arXiv 2024.02`. [[Paper](https://arxiv.org/abs/2402.09563)]
+
 - **Credit Markets Environment**: "Writing Quality and Soft Information in the GenAI Age: Evidence from Online Credit Markets", `SSRN 2024.12`. [[Paper](http://dx.doi.org/10.2139/ssrn.4959535)]
 
 - **EWM / DDGE**: "Economic World Models and Data-Driven Generative Equilibria", `SSRN 2025.02`. [[Paper](https://doi.org/10.2139/ssrn.6559940)]
 
 - **Environment + Single Agent**: "AlphaManager: A Data-Driven-Robust-Control Approach to Corporate Finance", `SSRN 2025.03`. [[Paper](http://dx.doi.org/10.2139/ssrn.4590323)]
+
+- **LLM Trading Agents**: "Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations", `arXiv 2025.04`. [[Paper](https://arxiv.org/abs/2504.10789)]
 
 - **Game-Theoretic XAI Regulation Model**: "Regulating Explainable Artificial Intelligence (XAI) May Harm Consumers", `UTD-Mark. Sci. 2025.05`. [[Paper](https://doi.org/10.1287/mksc.2022.0396)]
 
