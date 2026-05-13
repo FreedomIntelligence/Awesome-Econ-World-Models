@@ -230,7 +230,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 - **Macro Expectation Simulation**: "Simulating Macroeconomic Expectations Using LLM Agents", `arXiv 2025.11`. [[Paper](https://arxiv.org/abs/2505.17648)]
 
-### 🌍 Environment-Centric Economic World Models
+### 🌍 Environment Engineering
 
 - **ACE Handbook**: "Agent-based computational economics: A constructive approach to economic theory", `Handb. Comput. Econ. 2006`. [[Paper](https://doi.org/10.1016/S1574-0021(05)02016-2)]
 
