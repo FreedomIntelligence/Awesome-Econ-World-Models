@@ -160,6 +160,8 @@ Representative works that extend world models from latent RL environments to mul
 
 ## 🪜 The World-Building Ladder: A Taxonomy of EconWM Capabilities
 
+> An Economic World Model is a generative engine that predicts how an economy moves by modeling how its agents act. It simulates heterogeneous agents’ next actions, aggregates them through economic rules and market mechanisms into the next economic state, and allows both agents and rules to evolve over time.
+
 To organize existing systems and clarify the path forward, we propose a six-level capability ladder. Moving upward, EconWMs progress from fixed rule-based simulations to adaptive agents, Large language model (LLM)-based autonomous agents, self-evolving agents, evolving economic institutions, and finally sim-to-real economic twins.
 
 <p align="center">
