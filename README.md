@@ -148,9 +148,9 @@ Representative works that extend world models from latent RL environments to mul
 
 ---
 
-## 🌐 Economic World Models
+## 🌐 How We Arrived at Economic World Models
 
-This section traces the evolution of economic modeling from rules and data to agents, multi-agent interaction, and full economic environments.
+In this section, we take a historical view and ask how AI for economics arrived at the need to build economic worlds? We argue that the field has moved through five engineering waves from feature, data, prompt, context, and environment engineering.
 
 <p align="center">
   <img src="images/roadmap.jpg" width="800">
