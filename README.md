@@ -143,15 +143,15 @@ Representative works that extend world models from latent RL environments to mul
 - **HERMES**: "A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation", `ICCV 2025.10`. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_HERMES_A_Unified_Self-Driving_World_Model_for_Simultaneous_3D_Scene_ICCV_2025_paper.html)]
 ---
 </details>
-
-## 📝 Blogs and Perspectives
+<details>
+<summary><h2> 📝 Blogs and Perspectives</h2></summary>
 
 - World Models: Computing the Uncomputable, `2026.03`. [[link]](https://www.notboring.co/p/world-models) [[WeChat repost]](https://mp.weixin.qq.com/s/JY3mpKYyCqnTNdPR2mne0w)
 - V-JEPA: The next step toward Yann LeCun’s vision of advanced machine intelligence (AMI), `2024.02`. [[link]](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
 - Yann LeCun on a vision to make AI systems learn and reason like animals and humans, `2022.02`. [[link]](https://ai.meta.com/blog/yann-lecun-advances-in-ai-research/)
 - Yann LeCun: AI Doesn’t Need Our Supervision, `2022.02`. [[link]](https://spectrum.ieee.org/yann-lecun-ai)
-
 ---
+</details>
 
 ## 🪜 The World-Building Ladder: A Taxonomy of EconWM Capabilities
 
