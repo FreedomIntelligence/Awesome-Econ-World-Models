@@ -232,7 +232,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 ### 🌍 Environment-Centric Economic World Models
 
-- **ACE Handbook**: "Agent-based computational economics: A constructive approach to economic theory", `Handb. Comput. Econ. 2006`. [[Paper](https://doi.org/10.1016/S1574-0021(05)]
+- **ACE Handbook**: "Agent-based computational economics: A constructive approach to economic theory", `Handb. Comput. Econ. 2006`. [[Paper](https://doi.org/10.1016/S1574-0021(05)02016-2)]
 
 - **ABM Advocacy**: "The economy needs agent-based modelling", `Nature 2009.08`. [[Paper](https://doi.org/10.1038/460685a)]
 
