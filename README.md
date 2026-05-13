@@ -1490,7 +1490,7 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 
 ### 🧬 L3: LLM-Based Autonomous Agent Worlds
 
-- ""Guinea Pig Trials" Utilizing GPT: A Novel Smart Agent-Based Modeling Approach for Studying Firm Competition and Collusion", `arXiv 2023.08`. [[Paper](https://arxiv.org/abs/2308.10974v4)]
+- **GPT Firm Competition Modeling**: ""Guinea Pig Trials" Utilizing GPT: A Novel Smart Agent-Based Modeling Approach for Studying Firm Competition and Collusion", `arXiv 2023.08`. [[Paper](https://arxiv.org/abs/2308.10974v4)]
 
 - **EconAgent**: "EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities", `arXiv 2023.10`. [[Paper](https://arxiv.org/abs/2310.10436v4)]
 
