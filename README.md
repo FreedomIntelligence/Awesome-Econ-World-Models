@@ -22,7 +22,7 @@
 ## 🗂️ Table of Contents
 
 - [Getting Started with World Models](#-getting-started-with-world-models)
-  - [Surveys and Tutorials](#surveys-and-tutorials)
+  - [Surveys and Tutorials](#-surveys-and-tutorials)
   - [General World Models](#-general-world-models)
   - [Generative and Interactive World Models](#-generative-and-interactive-world-models)
   
@@ -146,7 +146,7 @@ Representative works that extend world models from latent RL environments to mul
 
 ## 📝 Blogs and Perspectives
 <details>
-<summary><h5> Details</h5></summary>
+<summary> Details</summary>
 
 - World Models: Computing the Uncomputable, `2026.03`. [[link]](https://www.notboring.co/p/world-models) [[WeChat repost]](https://mp.weixin.qq.com/s/JY3mpKYyCqnTNdPR2mne0w)
 
