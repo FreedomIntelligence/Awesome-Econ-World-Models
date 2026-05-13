@@ -151,7 +151,7 @@ Representative works that extend world models from latent RL environments to mul
 In this section, we take a historical view how AI for economics arrived at the need to build economic worlds. We argue that the field has moved through five engineering waves from feature, data, prompt, context, and environment engineering.
 
 <p align="center">
-  <img src="images/roadmap.png" width="1100">
+  <img src="images/roadmap.png" width="1000">
 </p>
 
 ### 📏 Feature Engineering
