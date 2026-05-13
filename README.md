@@ -77,7 +77,8 @@ Broad overviews that help newcomers understand the landscape.
 - "Learning to Model the World: A Survey of World Models in Artificial Intelligence", `Preprints.org 2026.03`. [[Paper](https://www.preprints.org/manuscript/202603.0739)]
 </details>
 
-### 🔹 General World Models
+<details>
+<summary><h3> 🔹 General World Models</h3></summary>
 
 Foundational papers that shape the modern notion of learning internal models of environment dynamics.
 
@@ -104,7 +105,7 @@ Foundational papers that shape the modern notion of learning internal models of 
 - "Mastering Diverse Control Tasks Through World Models, Nature", `2025.04`. [[Paper](https://www.nature.com/articles/s41586-025-08744-2)]
 
 - "General Agents Need World Models", `ICML 2025.07`. [[Paper](https://openreview.net/forum?id=dlIoumNiXt)]
-
+</details>
 
 ### 🎬 Generative and Interactive World Models
 
