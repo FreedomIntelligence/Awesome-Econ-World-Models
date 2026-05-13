@@ -29,7 +29,7 @@
 - [Blogs and Perspectives](#-blogs-and-perspectives)
 
 - [The World-Building Ladder: A Taxonomy of EconWM Capabilities](#-the-world-building-ladder-a-taxonomy-of-econwm-capabilities)
-  - [L1: Fixed Rule-Based Agent Worlds](#-l1-fixed-rule-based-agent-worlds)
+  - [L1: Fixed Rule-Based Agent Worlds](#️-l1-fixed-rule-based-agent-worlds)
   - [L2: Adaptive Rule-Based Agent Worlds](#-l2-adaptive-rule-based-agent-worlds)
   - [L3: LLM-Based Autonomous Agent Worlds](#-l3-llm-based-autonomous-agent-worlds)
   - [L4: Self-Evolving Agent Worlds](#-l4-self-evolving-agent-worlds)
