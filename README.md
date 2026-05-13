@@ -54,7 +54,7 @@
 ## 🚀 Getting Started with World Models
 
 <details>
-### 📚 Surveys and Tutorials
+<summary><h3> 📚 Surveys and Tutorials</h3></summary>
 
 Broad overviews that help newcomers understand the landscape.
 
