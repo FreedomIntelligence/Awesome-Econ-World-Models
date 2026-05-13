@@ -76,7 +76,6 @@ Broad overviews that help newcomers understand the landscape.
 
 - "Learning to Model the World: A Survey of World Models in Artificial Intelligence", `Preprints.org 2026.03`. [[Paper](https://www.preprints.org/manuscript/202603.0739)]
 </details>
-
 <details>
 <summary><h3> 🔹 General World Models</h3></summary>
 
