@@ -46,7 +46,9 @@
 - [Applications](#-applications)
   - [Sandbox for Humans](#-sandbox-for-humans)
   - [Economic Brain for Machines](#-economic-brain-for-machines)
-  
+
+- [Benchmark](#-benchmark)
+
 - [Projects and Platforms](#️-projects-and-platforms)
 
 ---
