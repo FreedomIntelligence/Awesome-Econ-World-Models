@@ -158,7 +158,7 @@ Representative works that extend world models from latent RL environments to mul
 ---
 </details>
 
-## 🪜 The World-Building Ladder: A Taxonomy of EconWM Capabilities
+## 🪜 The World-Building Ladder: A Taxonomy of Economic World Models' Capabilities
 
 > An Economic World Model is a generative engine that predicts how an economy moves by modeling how its agents act. It simulates heterogeneous agents’ next actions, aggregates them through economic rules and market mechanisms into the next economic state, and allows both agents and rules to evolve over time.
 
@@ -1673,8 +1673,8 @@ In this section, we take a historical view how AI for economics arrived at the n
 <p align="center">
   <img src="images/roadmap.png" width="800">
 </p>
-
-### 📏 Feature Engineering
+<details>
+<summary><h3> 📏 Feature Engineering</h3></summary>
 
 - **Text-Based Volatility Signal**: "News Implied Volatility and Disaster Concerns", `UTD-JFE 2017.01`. [[Paper](https://doi.org/10.1016/j.jfineco.2016.01.032)]
 
@@ -1687,8 +1687,9 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **Informed Trading Measure**: "Informed Trading Intensity", `UTD-JF 2024.02`. [[Paper](https://doi.org/10.1111/jofi.13320)]
 
 - **Feature Engineering for ML Signals**: "Machine Learning from a Universe of Signals: The Role of Feature Engineering", `UTD-JFE 2025.10`. [[Paper](https://doi.org/10.1016/j.jfineco.2025.104138)]
-
-### 📊 Data Engineering
+</details>
+<details>
+<summary><h3> 📊 Data Engineering</h3></summary>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep Learning
 - **Dynamic Graph Neural Network for Stocks**: "Inductive Representation Learning on Dynamic Stock Co-Movement Graphs for Stock Predictions", `UTD-INFORMS J. Comput. 2022.07`. [[Paper](https://doi.org/10.1287/ijoc.2022.1172)]
@@ -1707,8 +1708,9 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **FinBERT2**: "FinBERT: A large language model for extracting information from financial text", `CAR 2023.06`. [[Paper](https://arxiv.org/abs/2006.08097)]
 
 - **FinGPT**: "FinGPT: Open-Source Financial Large Language Models", `FinLLM@IJCAI 2023.06`. [[Paper](https://arxiv.org/abs/2306.06031v2)]
-
-### 🧠 Prompt Engineering
+</details>
+<details>
+<summary><h3> 🧠 Prompt Engineering</h3></summary>
 
 - **GPT-3**: "Language Models are Few-Shot Learners", `NeurIPS 2020.05`. [[Paper](https://arxiv.org/abs/2005.14165)]
 
@@ -1733,8 +1735,9 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **LLM as Homo Silicus**: "Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?", `NBER 2026.02`. [[Paper](https://doi.org/10.3386/w31122)]
 
 - **Prompt-Optimized Collusion**: "Prompt Optimization Enables Stable Algorithmic Collusion in LLM Agents", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.17774)]
-
-### 🤖 Context Engineering
+</details>
+<details>
+<summary><h3> 🤖 Context Engineering</h3></summary>
 
 - **TradingGPT**: "Tradinggpt: Multi-agent system with layered memory and distinct characters for enhanced financial trading performance", `arXiv 2023.09`. [[Paper](https://arxiv.org/abs/2309.03736)]
 
@@ -1749,8 +1752,9 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **TG-RAG**: "RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge", `arXiv 2025.10`. [[Paper](https://arxiv.org/abs/2510.13590)]
 
 - **Macro Expectation Simulation**: "Simulating Macroeconomic Expectations Using LLM Agents", `arXiv 2025.11`. [[Paper](https://arxiv.org/abs/2505.17648)]
-
-### 🌍 Environment Engineering
+</details>
+<details>
+<summary><h3> 🌍 Environment Engineering</h3></summary>
 
 - **ACE Handbook**: "Agent-based computational economics: A constructive approach to economic theory", `Handb. Comput. Econ. 2006`. [[Paper](https://doi.org/10.1016/S1574-0021(05)02016-2)]
 
@@ -1777,10 +1781,11 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **Algorithmic Lending Competition Model**: "Algorithmic Lending, Competition, and Strategic Provision of Preapproval Tools", `UTD-Mark. Sci. 2025.08`. [[Paper](https://doi.org/10.1287/mksc.2023.0164)]
 
 ---
+</details>
 
 ## 📱 Applications
-
-### 🏢 Sandbox for Humans
+<details>
+<summary><h3> 🏢 Sandbox for Humans</h3></summary>
 
 - **LLM Human Replication**: "Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies", `arxiv 2022.08`. [[Paper](https://arxiv.org/abs/2208.10264)]
 
@@ -1819,8 +1824,9 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **Risk Preference Alignment**: "Evaluating and Aligning Human Economic Risk Preferences in LLMs", `EMNLP 2025.12`. [[Paper](https://aclanthology.org/2025.emnlp-main.917/)]
 
 - **LLM Consumption-Savings**: "Consumption and Savings with Large Language Model Agents", `SSRN 2026.02`. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6037936)]
-
-### 💻 Economic Brain for Machines
+</details>
+<details>
+<summary><h3> 💻 Economic Brain for Machines</h3></summary>
 
 - **The AI Economist**: "Taxation Policy Design via Two-level Deep Multiagent Reinforcement Learning", `Science Advances 2022.05`. [[Paper](https://www.science.org/doi/full/10.1126/sciadv.abk2607)]
 
@@ -1849,9 +1855,11 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **RISE**: "RISE: Self-Improving Robot Policy with Compositional World Model", `arxiv 2026.02`. [[Paper](https://arxiv.org/abs/2602.11075)[Project](https://opendrivelab.com/kai0-rl/)]
 
 ---
-
+</details>
 
 ## 🚩 Benchmark
+<details>
+<summary><h5> Details</h5></summary>
 
 - **WebArena**: "Webarena: A realistic web environment for building autonomous agents", `arXiv 2023.07`. [[Paper](https://arxiv.org/abs/2307.13854)]
 
@@ -1868,9 +1876,11 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **ConsintBench**: "Evaluating Language Models on Real-World Consumer Intent Understanding", `arxiv 2025.10`. [[Paper](https://arxiv.org/abs/2510.13499)]
 
 ---
-
+</details>
 
 ## 🛠️ Projects and Platforms
+<details>
+<summary><h5> Details</h5></summary>
 
 - **YuLan-OneSim** — A large-scale LLM-based social simulator that supports code-free scenario construction, distributed execution, and simulations with up to 100K agents across multiple social-science domains.  
   [[Paper]](https://arxiv.org/abs/2505.07581) [[Code]](https://github.com/RUC-GSAI/YuLan-OneSim) [[Docs]](https://ruc-gsai.github.io/YuLan-OneSim/)
@@ -1887,3 +1897,4 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **Global Economic Model** [[Link](https://www.oxfordeconomics.com/service/subscription-services/macro/global-economic-model/)]
 
 ---
+</details>
