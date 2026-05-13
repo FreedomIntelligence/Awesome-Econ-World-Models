@@ -29,11 +29,11 @@
 - [Blogs and Perspectives](#-blogs-and-perspectives)
 
 - [How We Arrived at Economic World Models](#-how-we-arrived-at-economic-world-models)
-  - [Rule-Based Economic Modeling](#-rule-based-economic-modeling)
-  - [Feature- and Data-Driven Economic Modeling](#-feature--and-data-driven-economic-modeling)
-  - [Prompt- and Context-Based Economic Agents](#-prompt--and-context-based-economic-agents)
-  - [Multi-Agent Economic Simulation](#-multi-agent-economic-simulation)
-  - [Environment-Centric Economic World Models](#-environment-centric-economic-world-models)
+  - [Feature Engineering](#-feature-engineering)
+  - [Data Engineering](#-data-engineering)
+  - [Prompt Engineering](#-prompt-engineering)
+  - [Context Engineering](#-context-engineering)
+  - [Environment Engineering](#-environment-engineering)
   
 - [Applications](#-applications)
   - [Sandbox for Humans](#-sandbox-for-humans)
