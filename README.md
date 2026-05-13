@@ -185,22 +185,22 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 ### 📏 Feature Engineering
 
-- **Text-Based Volatility Signal**: "News Implied Volatility and Disaster Concerns" `UTD-J. Financ. Econ. 2017.01`. [[Paper](https://doi.org/10.1016/j.jfineco.2016.01.032)]
+- **Text-Based Volatility Signal**: "News Implied Volatility and Disaster Concerns", `UTD-JFE 2017.01`. [[Paper](https://doi.org/10.1016/j.jfineco.2016.01.032)]
 
-- **Empirical ML Pricing**: "Empirical asset pricing via machine learning", `RFS 2020.05`. [[Paper](https://doi.org/10.1093/rfs/hhaa009)]
+- **Empirical ML Pricing**: "Empirical asset pricing via machine learning", `UTD-RFS 2020.05`. [[Paper](https://doi.org/10.1093/rfs/hhaa009)]
 
-- **Photo-Based Sentiment Index**: "A Picture Is Worth a Thousand Words: Measuring Investor Sentiment by Combining Machine Learning and Photos from News" `UTD-J. Financ. Econ. 2022.04`. [[Paper](https://doi.org/10.1016/j.jfineco.2021.06.002)]
+- **Photo-Based Sentiment Index**: "A Picture Is Worth a Thousand Words: Measuring Investor Sentiment by Combining Machine Learning and Photos from News", `UTD-JFE 2022.04`. [[Paper](https://doi.org/10.1016/j.jfineco.2021.06.002)]
 
-- **Transaction-Based Fraud Detection Features**: "Peer-to-Peer Loan Fraud Detection: Constructing Features from Transaction Data" `UTD-MIS 2022.09`. [[Paper](https://doi.org/10.25300/MISQ/2022/16103)]
+- **Transaction-Based Fraud Detection Features**: "Peer-to-Peer Loan Fraud Detection: Constructing Features from Transaction Data", `UTD-MIS Q. 2022.09`. [[Paper](https://doi.org/10.25300/MISQ/2022/16103)]
 
-- **Informed Trading Measure**: "Informed Trading Intensity" `UTD-J. Finance 2024.02`. [[Paper](https://doi.org/10.1111/jofi.13320)]
+- **Informed Trading Measure**: "Informed Trading Intensity", `UTD-JF 2024.02`. [[Paper](https://doi.org/10.1111/jofi.13320)]
 
-- **Feature Engineering for ML Signals**: "Machine Learning from a Universe of Signals: The Role of Feature Engineering" `UTD-J. Financ. Econ. 2025.10`. [[Paper](https://doi.org/10.1016/j.jfineco.2025.104138)]
+- **Feature Engineering for ML Signals**: "Machine Learning from a Universe of Signals: The Role of Feature Engineering", `UTD-JFE 2025.10`. [[Paper](https://doi.org/10.1016/j.jfineco.2025.104138)]
 
 ### 📊 Data Engineering
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep Learning
-- **Dynamic Graph Neural Network for Stocks**: "Inductive Representation Learning on Dynamic Stock Co-Movement Graphs for Stock Predictions", `UTD-INFORMS J Comput 2022.07`. [[Paper](https://doi.org/10.1287/ijoc.2022.1172)]
+- **Dynamic Graph Neural Network for Stocks**: "Inductive Representation Learning on Dynamic Stock Co-Movement Graphs for Stock Predictions", `UTD-INFORMS J. Comput. 2022.07`. [[Paper](https://doi.org/10.1287/ijoc.2022.1172)]
 
 - **DL for Pricing**: "Deep Learning in Asset Pricing", `UTD-Manage. Sci. 2024.02`. [[Paper](https://doi.org/10.1287/mnsc.2023.4695)]
 
@@ -209,7 +209,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Language Model
 - **FinBERT1**: "FinBERT: A Pre-trained Financial Language Representation Model for Financial Text Mining", `IJCAI 2021.01`. [[Paper](https://www.ijcai.org/proceedings/2020/0622.pdf)]
 
-- **Knowledge-Enhanced Text Embedding**: "Analyzing Firm Reports for Volatility Prediction: A Knowledge-Driven Text-Embedding Approach", `UTD-INFORMS J Comput 2022.01`. [[Paper](https://doi.org/10.1287/ijoc.2020.1046)]
+- **Knowledge-Enhanced Text Embedding**: "Analyzing Firm Reports for Volatility Prediction: A Knowledge-Driven Text-Embedding Approach", `UTD-INFORMS J. Comput. 2022.01`. [[Paper](https://doi.org/10.1287/ijoc.2020.1046)]
 
 - **BloombergGPT**: "BloombergGPT: A Large Language Model for Finance", `arXiv 2023.03`. [[Paper](https://arxiv.org/abs/2303.17564)]
 
@@ -235,7 +235,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 - **Strategic Prompt Engineering**: "The Crowdless Future? Generative AI and Creative Problem-Solving", `UTD-Organ. Sci. 2024.09`. [[Paper](https://doi.org/10.1287/orsc.2023.18430)]
 
-- **GenAI Strategic Eval**: "Generative artificial intelligence and evaluating strategic decisions", `SMJ 2025.03`. [[Paper](https://doi.org/10.1002/smj.3677)]
+- **GenAI Strategic Eval**: "Generative artificial intelligence and evaluating strategic decisions", `UTD-SMJ 2025.03`. [[Paper](https://doi.org/10.1002/smj.3677)]
 
 - **Persona-based Prompting**: "Prompting for Policy: Forecasting Macroeconomic Scenarios with Synthetic LLM Personas", `ICAIF 2025.11`. [[Paper](https://doi.org/10.1145/3768292.3770385)]
 
@@ -249,7 +249,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 - **FinMem**: "FinMem: A Performance-Enhanced LLM Trading Agent With Layered Memory and Character Design", `IEEE TBD 2023.11`. [[Paper](https://arxiv.org/abs/2311.13743v2)]
 
-- **LASER&BEAM**: "Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility", `UTD-INFORMS J Comput 2024.11`. [[Paper](https://doi.org/10.1287/ijoc.2022.0055)]
+- **LASER&BEAM**: "Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility", `UTD-INFORMS J. Comput. 2024.11`. [[Paper](https://doi.org/10.1287/ijoc.2022.0055)]
 
 - **Context-Aware LLM for Market Impact**: "Context-Aware Language Models for Forecasting Market Impact from Sequences of Financial News", `arXiv 2025.09`. [[Paper](https://arxiv.org/abs/2509.12519)]
 
