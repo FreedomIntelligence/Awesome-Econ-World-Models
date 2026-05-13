@@ -168,9 +168,9 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 
 ### 🏗️ L1: Fixed Rule-Based Agent Worlds
 ### 🔄 L2: Adaptive Rule-Based Agent Worlds
-### 🧠 L3: LLM-Based Autonomous Agent Worlds
-### 🧬 L4: Self-Evolving Agent Worlds
-### 📈 L5: Evolving Economic Worlds
+### 🧬 L3: LLM-Based Autonomous Agent Worlds
+### 📈 L4: Self-Evolving Agent Worlds
+### 🗺️ L5: Evolving Economic Worlds
 ### 🔗 L6: Sim-to-Real Economic Twins
 
 ---
