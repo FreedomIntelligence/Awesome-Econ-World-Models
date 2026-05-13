@@ -33,7 +33,7 @@
   - [L2: Adaptive Rule-Based Agent Worlds](#-l2-adaptive-rule-based-agent-worlds)
   - [L3: LLM-Based Autonomous Agent Worlds](#-l3-llm-based-autonomous-agent-worlds)
   - [L4: Self-Evolving Agent Worlds](#-l4-self-evolving-agent-worlds)
-  - [L5: Evolving Economic Worlds](#-l5-evolving-economic-worlds)
+  - [L5: Evolving Economic Worlds](#️-l5-evolving-economic-worlds)
   - [L6: Sim-to-Real Economic Twins](#-l6-sim-to-real-economic-twins)
 
 - [How We Arrived at Economic World Models](#-how-we-arrived-at-economic-world-models)
