@@ -105,8 +105,8 @@ Foundational papers that shape the modern notion of learning internal models of 
 
 - "General Agents Need World Models", `ICML 2025.07`. [[Paper](https://openreview.net/forum?id=dlIoumNiXt)]
 </details>
-
-### 🎬 Generative and Interactive World Models
+<details>
+<summary><h3> 🎬 Generative and Interactive World Models</h3></summary>
 
 Representative works that extend world models from latent RL environments to multimodal generation, interactive simulation, and embodied environments.
 
@@ -141,8 +141,7 @@ Representative works that extend world models from latent RL environments to mul
 - **EgoAgent**: "A Joint Predictive Agent Model in Egocentric Worlds", `ICCV 2025.10`. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_EgoAgent_A_Joint_Predictive_Agent_Model_in_Egocentric_Worlds_ICCV_2025_paper.html)]
 
 - **HERMES**: "A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation", `ICCV 2025.10`. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_HERMES_A_Unified_Self-Driving_World_Model_for_Simultaneous_3D_Scene_ICCV_2025_paper.html)]
-
-
+</details>
 ---
 
 ## 📝 Blogs and Perspectives
