@@ -53,6 +53,7 @@
 
 ## 🚀 Getting Started with World Models
 
+<details>
 ### 📚 Surveys and Tutorials
 
 Broad overviews that help newcomers understand the landscape.
@@ -74,6 +75,7 @@ Broad overviews that help newcomers understand the landscape.
 - "A Comprehensive Survey on World Models for Embodied AI", `arxiv 2025.10`. [[Paper](https://arxiv.org/abs/2510.16732)]
 
 - "Learning to Model the World: A Survey of World Models in Artificial Intelligence", `Preprints.org 2026.03`. [[Paper](https://www.preprints.org/manuscript/202603.0739)]
+</details>
 
 ### 🔹 General World Models
 
