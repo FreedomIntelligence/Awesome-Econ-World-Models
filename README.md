@@ -28,6 +28,14 @@
   
 - [Blogs and Perspectives](#-blogs-and-perspectives)
 
+- [The World-Building Ladder: A Taxonomy of EconWM Capabilities](#-the-world-building-ladder-a-taxonomy-of-econwm-capabilities)
+  - [L1: Fixed Rule-Based Agent Worlds](#-l1-fixed-rule-based-agent-worlds)
+  - [L2: Adaptive Rule-Based Agent Worlds](#-l2-adaptive-rule-based-agent-worlds)
+  - [L3: LLM-Based Autonomous Agent Worlds](#-l3-llm-based-autonomous-agent-worlds)
+  - [L4: Self-Evolving Agent Worlds](#-l4-self-evolving-agent-worlds)
+  - [L5: Evolving Economic Worlds](#-l5-evolving-economic-worlds)
+  - [L6: Sim-to-Real Economic Twins](#-l6-sim-to-real-economic-twins)
+
 - [How We Arrived at Economic World Models](#-how-we-arrived-at-economic-world-models)
   - [Feature Engineering](#-feature-engineering)
   - [Data Engineering](#-data-engineering)
@@ -146,6 +154,16 @@ Representative works that extend world models from latent RL environments to mul
 
 ---
 
+## 🪜 The World-Building Ladder: A Taxonomy of EconWM Capabilities
+### 🏗️ L1: Fixed Rule-Based Agent Worlds
+### 🔄 L2: Adaptive Rule-Based Agent Worlds
+### 🧠 L3: LLM-Based Autonomous Agent Worlds
+### 🧬 L4: Self-Evolving Agent Worlds
+### 📈 L5: Evolving Economic Worlds
+### 🔗 L6: Sim-to-Real Economic Twins
+
+---
+
 ## 🌐 How We Arrived at Economic World Models
 
 In this section, we take a historical view how AI for economics arrived at the need to build economic worlds. We argue that the field has moved through five engineering waves from feature, data, prompt, context, and environment engineering.
@@ -256,6 +274,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 - **Algorithmic Lending Competition Model**: "Algorithmic Lending, Competition, and Strategic Provision of Preapproval Tools", `UTD-Mark. Sci. 2025.08`. [[Paper](https://doi.org/10.1287/mksc.2023.0164)]
 
+---
 
 ## Applications
 
