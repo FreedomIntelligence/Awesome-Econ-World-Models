@@ -153,37 +153,11 @@ Representative works that extend world models from latent RL environments to mul
 In this section, we take a historical view how AI for economics arrived at the need to build economic worlds. We argue that the field has moved through five engineering waves from feature, data, prompt, context, and environment engineering.
 
 <p align="center">
-  <img src="images/roadmap.png" width="1200">
+  <img src="images/roadmap.png" width="1100">
 </p>
 
-### 📏 Rule-Based Economic Modeling
+### 📏 Feature Engineering
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microeconomics
-- **Nash Equilibrium**: "Non-Cooperative Games", `Ann. Math. 1951.09`. [[Paper](https://doi.org/10.2307/1969529)]
-
-- **General Equilibrium**: "Existence of an Equilibrium for a Competitive Economy", `Econometrica 1954.07`. [[Paper](https://doi.org/10.2307/1907353)]
-
-- **DM vs Crossing Network**: "Dynamic order submission strategies with competition between a dealer market and a crossing network", `JFE 2009.03`. [[Paper](https://doi.org/10.1016/j.jfineco.2008.02.007)]
-
-- **Entrepreneurial Rents**: "Toward a theory of entrepreneurial rents: A simulation of the market process", `SMJ 2015.01`. [[Paper](https://doi.org/10.1002/smj.2203)]
-
-- **Arbitrage Asset Pricing**: "Asset pricing with arbitrage activity", `JFE 2015.02`. [[Paper](https://doi.org/10.1016/j.jfineco.2014.10.001)]
-
-- **Collateral Intervention Traps**: "Collateral quality and intervention traps", `JFE 2023.01`. [[Paper](https://doi.org/10.1016/j.jfineco.2022.10.005)]
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macroeconomics
-- **Neoclassical Synthesis (IS-LM)**: "Mr. Keynes and the "Classics"; A Suggested Interpretation", `Econometrica 1937.04`. [[Paper](https://doi.org/10.2307/1907242)]
-
-- **New Classical (RBC)**: "Time to Build and Aggregate Fluctuations", `Econometrica 1982.11`. [[Paper](https://doi.org/10.2307/1913386)]
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Micro+Macro
-- **CGE**: "Applied General-Equilibrium Models of Taxation and International Trade: An Introduction and Survey", `JEL 1984.09`. [[Paper](https://www.jstor.org/stable/2725306)]
-
-- **DSGE**: "Shocks and Frictions in US Business Cycles: A Bayesian DSGE Approach", `AER 2007.06`. [[Paper](https://doi.org/10.1257/aer.97.3.586)]
-
-### 📊 Feature- and Data-Driven Economic Modeling
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feature Engineering
 - **Text-Based Volatility Signal**: "News Implied Volatility and Disaster Concerns" `UTD-J. Financ. Econ. 2017.01`. [[Paper](https://doi.org/10.1016/j.jfineco.2016.01.032)]
 
 - **Photo-Based Sentiment Index**: "A Picture Is Worth a Thousand Words: Measuring Investor Sentiment by Combining Machine Learning and Photos from News" `UTD-J. Financ. Econ. 2022.04`. [[Paper](https://doi.org/10.1016/j.jfineco.2021.06.002)]
@@ -193,6 +167,8 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **Informed Trading Measure**: "Informed Trading Intensity" `UTD-J. Finance 2024.02`. [[Paper](https://doi.org/10.1111/jofi.13320)]
 
 - **Feature Engineering for ML Signals**: "Machine Learning from a Universe of Signals: The Role of Feature Engineering" `UTD-J. Financ. Econ. 2025.10`. [[Paper](https://doi.org/10.1016/j.jfineco.2025.104138)]
+
+### 📊 Data Engineering
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep Learning
 - **Empirical ML Pricing**: "Empirical asset pricing via machine learning", `RFS 2020.05`. [[Paper](https://doi.org/10.1093/rfs/hhaa009)]
@@ -214,7 +190,13 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 - **FinGPT**: "FinGPT: Open-Source Financial Large Language Models", `FinLLM@IJCAI 2023.06`. [[Paper](https://arxiv.org/abs/2306.06031v2)]
 
-### 🧠 Prompt- and Context-Based Economic Agents
+### 🧠 Prompt Engineering
+
+- **GPT-3**: "Language Models are Few-Shot Learners", `NeurIPS 2020.05`. [[Paper](https://arxiv.org/abs/2005.14165)]
+
+- **CoT**: "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models", `NeurIPS 2022.01`. [[Paper](https://arxiv.org/abs/2201.11903v6)]
+
+- **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models", `ICLR 2022.10`. [[Paper](https://arxiv.org/abs/2210.03629v3)]
 
 - **GPT Game Theory**: "GPT in Game Theory Experiments", `arXiv 2023.05`. [[Paper](https://arxiv.org/abs/2305.05516)]
 
@@ -222,13 +204,11 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 - **ChatGPT Fin-Sentiment**: "Transforming sentiment analysis in the financial domain with ChatGPT", `Mach. Learn. Appl. 2023.08`. [[Paper](https://arxiv.org/abs/2308.07935v1)]
 
+- **Out of One, Many**: "Out of One, Many: Using Language Models to Simulate Human Samples", `Political Analysis 2023.09`. [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)]
+
 - **Strategic Prompt Engineering**: "The Crowdless Future? Generative AI and Creative Problem-Solving", `UTD-Organ. Sci. 2024.09`. [[Paper](https://doi.org/10.1287/orsc.2023.18430)]
 
-- **LASER&BEAM**: "Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility", `UTD-INFORMS J Comput 2024.11`. [[Paper](https://doi.org/10.1287/ijoc.2022.0055)]
-
 - **GenAI Strategic Eval**: "Generative artificial intelligence and evaluating strategic decisions", `SMJ 2025.03`. [[Paper](https://doi.org/10.1002/smj.3677)]
-
-- **Context-Aware LLM for Market Impact**: "Context-Aware Language Models for Forecasting Market Impact from Sequences of Financial News", `arXiv 2025.09`. [[Paper](https://arxiv.org/abs/2509.12519)]
 
 - **Persona-based Prompting**: "Prompting for Policy: Forecasting Macroeconomic Scenarios with Synthetic LLM Personas", `ICAIF 2025.11`. [[Paper](https://doi.org/10.1145/3768292.3770385)]
 
@@ -236,143 +216,11 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 - **Prompt-Optimized Collusion**: "Prompt Optimization Enables Stable Algorithmic Collusion in LLM Agents", `arXiv 2026.04`. [[Paper](https://arxiv.org/abs/2604.17774)]
 
-### 🤖 Multi-Agent Economic Simulation
+### 🤖 Context Engineering
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Classical Agent-Based Economics
-- **First Modern ABM**: "Investment rules, margin, and market volatility", `JPM 1989.04`. [[Paper](https://doi.org/10.3905/jpm.1989.409233)]
+- **LASER&BEAM**: "Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility", `UTD-INFORMS J Comput 2024.11`. [[Paper](https://doi.org/10.1287/ijoc.2022.0055)]
 
-- **CLRI**: "Predicting the expected behavior of agents that learn about agents: the CLRI framework", `arXiv 2000.01`. [[Paper](https://arxiv.org/abs/cs/0001008)]
-
-- **Multi-Scaling Markets**: "Scaling and Multi-scaling in Financial Markets", `arXiv 2000.07`. [[Paper](https://arxiv.org/abs/cond-mat/0007385)]
-
-- **Money Goldstone Modes**: "Money and Goldstone modes", `arXiv 2000.09`. [[Paper](https://arxiv.org/abs/cond-mat/0009287)]
-
-- **Adaptive Correlation Market**: "Statistical physics of adaptive correlation of agents in a market", `arXiv 2000.10`. [[Paper](https://arxiv.org/abs/cond-mat/0010455)]
-
-- **Ising Price Model**: "A simple model of price formation", `arXiv 2001.01`. [[Paper](https://arxiv.org/abs/cond-mat/0101001)]
-
-- **Wealth Power Laws**: "Power Laws of Wealth, Market Order Volumes and Market Returns", `arXiv 2001.02`. [[Paper](https://arxiv.org/abs/cond-mat/0102423)]
-
-- **Bandwidth Market**: "A Price Dynamics in Bandwidth Markets for Point-to-point Connections", `arXiv 2001.02`. [[Paper](https://arxiv.org/abs/cs/0102011)]
-
-- **Imitation Bubbles**: "Imitation and contrarian behavior: hyperbolic bubbles, crashes and chaos", `arXiv 2001.09`. [[Paper](https://arxiv.org/abs/cond-mat/0109410)]
-
-- **Money Phase Transition**: "Stability of money: Phase transitions in an Ising economy", `arXiv 2001.10`. [[Paper](https://arxiv.org/abs/cond-mat/0110201)]
-
-- **ACE1**: "Agent-Based Computational Economics: Growing Economies From the Bottom Up", `Artif. Life 2002.01`. [[Paper](https://doi.org/10.1162/106454602753694765)]
-
-- **Minimal Stock Market**: "Evolution and anti-evolution in a minimal stock market model", `arXiv 2002.11`. [[Paper](https://arxiv.org/abs/nlin/0211010)]
-
-- **Adaptive Corporate Finance**: "Corporate financing: An artificial agent-based analysis", `JF 2003.05`. [[Paper](https://doi.org/10.1111/1540-6261.00554)]
-
-- **Persistent Heterogeneity**: "Persistent heterogeneity and sustainable innovation", `SMJ 2003.08`. [[Paper](https://doi.org/10.1002/smj.326)]
-
-- **ABM Financial Markets Survey**: "Agent-Based Models of Financial Markets", `arXiv 2007.01`. [[Paper](https://arxiv.org/abs/physics/0701140)]
-
-- **ACE2**: "Handbook of Computational Economics, Vol. 2: Agent-Based Computational Economics", `INFORMS J. Appl. Anal. 2007.05`. [[Paper](https://www.proquest.com/openview/9078c2bf5489543503e757f6167ad313/1?pq-origsite=gscholar&cbl=6197)]
-
-- **Minority-Game Reverse Engineering**: "Reverse Engineering Financial Markets with Majority and Minority Games using Genetic Algorithms", `arXiv 2010.02`. [[Paper](https://arxiv.org/abs/1002.2171)]
-
-- **OLIGO Election Model**: "Modeling Oligarchs' Campaign Donations and Ideological Preferences with Simulated Agent-Based Spatial Elections", `arXiv 2013.10`. [[Paper](https://arxiv.org/abs/1310.7134)]
-
-- **Contagious Synchronization**: "Contagious Synchronization and Endogenous Network Formation in Financial Networks", `arXiv 2014.08`. [[Paper](https://arxiv.org/abs/1408.0440)]
-
-- **ABM in Econ**: "Agent‐Based Modelling in Economics", `Wiley 2015.11`. [[Paper](https://doi.org/10.1002/9781118945520)]
-
-- **HOSNY**: "Humans of Simulated New York (HOSNY): an exploratory comprehensive model of city life", `arXiv 2017.03`. [[Paper](https://arxiv.org/abs/1703.05240)]
-
-- **ABM in Macro-Econ**: "Agent-based macroeconomics", `Handb. Comput. Econ. 2018.02`. [[Paper](https://doi.org/10.1016/bs.hescom.2018.02.006)]
-
-- **SABCEMM**: "Simulation of Stylized Facts in Agent-Based Computational Economic Market Models", `arXiv 2018.11`. [[Paper](https://arxiv.org/abs/1812.02726)]
-
-- **Policy Prioritization ABM**: "The Importance of Social and Government Learning in Ex Ante Policy Evaluation", `arXiv 2019.02`. [[Paper](https://arxiv.org/abs/1902.00429)]
-
-- **ABIDES**: "ABIDES: Towards high-fidelity multi-agent market simulation", `Proceedings of the 2020 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation 2019.04`. [[Paper](https://arxiv.org/abs/1904.12066)]
-
-- **Hidden-Action Memory**: "An Agent-Based Model of Delegation Relationships With Hidden-Action: On the Effects of Heterogeneous Memory on Performance", `arXiv 2020.09`. [[Paper](https://arxiv.org/abs/2009.07124)]
-
-- **Complexity Economics**: "Foundations of Complexity Economics", `Nat. Rev. Phys. 2021.01`. [[Paper](https://doi.org/10.1038/s42254-020-00273-3)]
-
-- **Data Sharing Game**: "Data sharing games", `arXiv 2021.01`. [[Paper](https://arxiv.org/abs/2101.10721)]
-
-- **Bounded Rationality ABM**: "Modeling the Out-of-Equilibrium Dynamics of Bounded Rationality and Economic Constraints", `arXiv 2021.06`. [[Paper](https://arxiv.org/abs/2106.00483)]
-
-- **Corporate Culture ABM**: "The effects of incentives, social norms, and employees' values on work performance", `arXiv 2021.07`. [[Paper](https://arxiv.org/abs/2107.01139)]
-
-- **Hidden-Action Intelligence**: "Limited intelligence and performance-based compensation: An agent-based model of the hidden action problem", `arXiv 2021.07`. [[Paper](https://arxiv.org/abs/2107.03764)]
-
-- **Treasury Inconvenience Yields**: "Treasury inconvenience yields during the COVID-19 crisis", `JFE 2022.01`. [[Paper](https://doi.org/10.1016/j.jfineco.2021.05.044)]
-
-- **Last-Mile Tipping**: "Designing technology for on-demand delivery: The effect of customer tipping on crowdsourced driver behavior and last mile performance", `JOM 2022.05`. [[Paper](https://doi.org/10.1002/joom.1187)]
-
-- **Token Platform Economy**: "Token-based platform finance", `JFE 2022.06`. [[Paper](https://doi.org/10.1016/j.jfineco.2021.10.002)]
-
-- **Flash Crash ABM**: "High-Frequency Financial Market Simulation and Flash Crash Scenarios Analysis: An Agent-Based Modelling Approach", `arXiv 2022.08`. [[Paper](https://arxiv.org/abs/2208.13654)]
-
-- **TaxAI**: "TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning", `Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023.09`. [[Paper](https://arxiv.org/abs/2309.16307v2)]
-
-- **ABIDES-Economist**: "ABIDES-Economist: Agent-Based Simulator of Economic Systems with Learning Agents", `arXiv 2024.02`. [[Paper](https://arxiv.org/abs/2402.09563)]
-
-- **Social Media Bubble ABM**: "Simulation of Social Media-Driven Bubble Formation in Financial Markets using an Agent-Based Model with Hierarchical Influence Network", `arXiv 2024.09`. [[Paper](https://arxiv.org/abs/2409.00742)]
-
-- **Prediction Market Manipulation**: "Manipulation in Prediction Markets: An Agent-Based Modeling Experiment", `arXiv 2025.01`. [[Paper](https://arxiv.org/abs/2601.20452)]
-
-- **ADAGE**: "ADAGE: A generic two-layer framework for adaptive agent based modelling", `arXiv 2025.01`. [[Paper](https://arxiv.org/abs/2501.09429)]
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LLM-Based Multi-Agent Economic Simulation
-- **SABM**: "Guinea Pig Trials" Utilizing GPT: A Novel Smart Agent-Based Modeling Approach for Studying Firm Competition and Collusion", `arXiv 2023.08`. [[Paper](https://arxiv.org/abs/2308.10974)]
-
-- **TradingGPT**: "Tradinggpt: Multi-agent system with layered memory and distinct characters for enhanced financial trading performance", `arXiv 2023.09`. [[Paper](https://arxiv.org/abs/2309.03736)]
-
-- **EconAgent**: "EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities", `arXiv 2023.10`. [[Paper](https://arxiv.org/abs/2310.10436)]
-
-- **CompeteAI**: "CompeteAI: Understanding the Competition Dynamics in Large Language Model-based Agents", `arXiv 2023.10`. [[Paper](https://arxiv.org/abs/2310.17512)]
-
-- **FinMem**: "FinMem: A Performance-Enhanced LLM Trading Agent With Layered Memory and Character Design", `IEEE TBD 2023.11`. [[Paper](https://arxiv.org/abs/2311.13743v2)]
-
-- **Info-Asymmetry Market**: "Language Models Can Reduce Asymmetry in Information Markets", `arXiv 2024.03`. [[Paper](https://arxiv.org/abs/2403.14443)]
-
-- **LLM Pricing Collusion**: "Algorithmic collusion by large language models", `arXiv 2024.04`. [[Paper](https://arxiv.org/abs/2404.00806)]
-
-- **ASFM**: "Simulating Financial Market via Large Language Model based Agents", `arXiv 2024.06`. [[Paper](https://arxiv.org/abs/2406.19966)]
-
-- **Personality Negotiation**: "How Personality Traits Influence Negotiation Outcomes? A Simulation based on Large Language Models", `arXiv 2024.07`. [[Paper](https://arxiv.org/abs/2407.11549)]
-
-- **Cournot LLM Collusion**: "Strategic Collusion of LLM Agents: Market Division in Multi-Commodity Competitions", `arXiv 2024.10`. [[Paper](https://arxiv.org/abs/2410.00031)]
-
-- **Neuro-Symbolic Traders**: "Neuro-Symbolic Traders: Assessing the Wisdom of AI Crowds in Markets", `arXiv 2024.10`. [[Paper](https://arxiv.org/abs/2410.14587)]
-
-- **GenSim**: "GenSim: A General Social Simulation Platform with Large Language Model Based Agents", `Proceedings of NAACL 2025 (Demo Track) 2024.10`. [[Paper](https://arxiv.org/abs/2410.04360v3)]
-
-- **MARL vs GABM**: "Incentives to Build Houses, Trade Houses, or Trade House Building Skills in Simulated Worlds under Various Governing Systems or Institutions: Comparing Multi-agent Reinforcement Learning to Generative Agent-based Model", `arXiv 2024.11`. [[Paper](https://arxiv.org/abs/2411.17724)]
-
-- **TradingAgents**: "TradingAgents: Multi-Agents LLM Financial Trading Framework", `arXiv 2024.12`. [[Paper](https://arxiv.org/abs/2412.20138)[Project](https://github.com/TauricResearch/TradingAgents)]
-
-- **Tax-Evasion ABM**: "Investigating Tax Evasion Emergence Using Dual Large Language Model and Deep Reinforcement Learning Powered Agent-based Simulation", `arXiv 2025.01`. [[Paper](https://arxiv.org/abs/2501.18177)]
-
-- **Crypto Portfolio MAS**: "Llm-powered multi-agent system for automated crypto portfolio management", `arXiv 2025.01`. [[Paper](https://arxiv.org/abs/2501.00826)]
-
-- **Policy Analysis Framework**: "A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis", `arXiv 2025.02`. [[Paper](https://arxiv.org/abs/2502.16879)]
-
-- **Trading Arena**: "Agent Trading Arena: A Study on Numerical Understanding in LLM-Based Agents", `arXiv 2025.02`. [[Paper](https://arxiv.org/abs/2502.17967)]
-
-- **LLM Trading Agents**: "Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations", `arXiv 2025.04`. [[Paper](https://arxiv.org/abs/2504.10789)]
-
-- **Digital Twin Behavioral Dataset**: "Twin-2K-500: A Data Set for Building Digital Twins of over 2,000 People Based on Their Answers to over 500 Questions", `arXiv 2025.05`. [[Paper](https://arxiv.org/abs/2505.17479)]
-
-- **Rational/Moral SFT**: "Aligning Large Language Model Agents with Rational and Moral Preferences: A Supervised Fine-Tuning Approach", `arXiv 2025.07`. [[Paper](https://arxiv.org/abs/2507.20796)]
-
-- **TwinMarket**: "TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets", `arXiv 2025.10`. [[Paper](https://arxiv.org/abs/2502.01506)]
-
-- **QuantAgents**: "QuantAgents: Towards Multi-agent Financial System via Simulated Trading", `arXiv 2025.10`. [[Paper](https://arxiv.org/abs/2510.04643)]
-
-- **Macro Expectation Simulation**: "Simulating Macroeconomic Expectations Using LLM Agents", `arXiv 2025.11`. [[Paper](https://arxiv.org/abs/2505.17648)]
-
-- **LAMP**: "Think, Speak, Decide: Language-Augmented Multi-Agent Reinforcement Learning for Economic Decision-Making", `arXiv 2025.11`. [[Paper](https://arxiv.org/abs/2511.12876)]
-
-- **AIvilization**: "AIvilization v0: Toward Large-Scale Artificial Social Simulation with a Unified Agent Architecture and Adaptive Agent Profiles", `arXiv 2026.02`. [[Paper](https://arxiv.org/abs/2602.10429)]
-
-- **MALLES**: "A Multi-agent LLMs-based Economic Sandbox with Consumer Preference Alignment", `arXiv 2026.03`. [[Paper](https://arxiv.org/pdf/2603.17694)]
+- **Context-Aware LLM for Market Impact**: "Context-Aware Language Models for Forecasting Market Impact from Sequences of Financial News", `arXiv 2025.09`. [[Paper](https://arxiv.org/abs/2509.12519)]
 
 ### 🌍 Environment-Centric Economic World Models
 - **Credit Markets Environment**: "Writing Quality and Soft Information in the GenAI Age: Evidence from Online Credit Markets", `SSRN 2024.12`. [[Paper](http://dx.doi.org/10.2139/ssrn.4959535)]
@@ -399,8 +247,6 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **Voyager**: "An Open-Ended Embodied Agent with Large Language Models", `arxiv 2023.05`. [[Paper](https://arxiv.org/abs/2305.16291)]
 
 - **S3**: "Social-network Simulation System with Large Language Model-Empowered Agents", `arxiv 2023.07`. [[Paper](https://arxiv.org/abs/2307.14984)]
-
-- **Out of One, Many**: "Out of One, Many: Using Language Models to Simulate Human Samples", `Political Analysis 2023.09`. [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)]
 
 - **AI Town**: "Generative Agents: Interactive Simulacra of Human Behavior", `UIST 2023.10`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3586183.3606763)]
 
