@@ -21,7 +21,7 @@
 
 ## 🗂️ Table of Contents
 
-- [Getting Started with World Models](#getting-started-with-world-models)
+- [Getting Started with World Models](#-getting-started-with-world-models)
   - [Surveys and Tutorials](#-surveys-and-tutorials)
   - [General World Models](#-general-world-models)
   - [Generative and Interactive World Models](#-generative-and-interactive-world-models)
@@ -51,7 +51,7 @@
 
 ---
 
-## Getting Started with World Models
+## 🚀 Getting Started with World Models
 
 ### 📚 Surveys and Tutorials
 
