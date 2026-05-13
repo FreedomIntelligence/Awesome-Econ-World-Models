@@ -158,6 +158,8 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 - **Text-Based Volatility Signal**: "News Implied Volatility and Disaster Concerns" `UTD-J. Financ. Econ. 2017.01`. [[Paper](https://doi.org/10.1016/j.jfineco.2016.01.032)]
 
+- **Empirical ML Pricing**: "Empirical asset pricing via machine learning", `RFS 2020.05`. [[Paper](https://doi.org/10.1093/rfs/hhaa009)]
+
 - **Photo-Based Sentiment Index**: "A Picture Is Worth a Thousand Words: Measuring Investor Sentiment by Combining Machine Learning and Photos from News" `UTD-J. Financ. Econ. 2022.04`. [[Paper](https://doi.org/10.1016/j.jfineco.2021.06.002)]
 
 - **Transaction-Based Fraud Detection Features**: "Peer-to-Peer Loan Fraud Detection: Constructing Features from Transaction Data" `UTD-MIS 2022.09`. [[Paper](https://doi.org/10.25300/MISQ/2022/16103)]
@@ -169,8 +171,6 @@ In this section, we take a historical view how AI for economics arrived at the n
 ### 📊 Data Engineering
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep Learning
-- **Empirical ML Pricing**: "Empirical asset pricing via machine learning", `RFS 2020.05`. [[Paper](https://doi.org/10.1093/rfs/hhaa009)]
-
 - **Dynamic Graph Neural Network for Stocks**: "Inductive Representation Learning on Dynamic Stock Co-Movement Graphs for Stock Predictions", `UTD-INFORMS J Comput 2022.07`. [[Paper](https://doi.org/10.1287/ijoc.2022.1172)]
 
 - **DL for Pricing**: "Deep Learning in Asset Pricing", `UTD-Manage. Sci. 2024.02`. [[Paper](https://doi.org/10.1287/mnsc.2023.4695)]
