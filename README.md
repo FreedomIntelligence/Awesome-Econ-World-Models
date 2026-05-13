@@ -49,8 +49,6 @@
   
 - [Projects and Platforms](#-projects-and-platforms)
 
-- [Citation](#-citation)
-
 ---
 
 ## Getting Started with World Models
@@ -1766,9 +1764,9 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 ---
 
-## Applications
+## 📱 Applications
 
-### Sandbox for Humans
+### 🏢 Sandbox for Humans
 
 - **LLM Human Replication**: "Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies", `arxiv 2022.08`. [[Paper](https://arxiv.org/abs/2208.10264)]
 
@@ -1808,7 +1806,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 - **LLM Consumption-Savings**: "Consumption and Savings with Large Language Model Agents", `SSRN 2026.02`. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6037936)]
 
-### Economic Brain for Machines
+### 💻 Economic Brain for Machines
 
 - **The AI Economist**: "Taxation Policy Design via Two-level Deep Multiagent Reinforcement Learning", `Science Advances 2022.05`. [[Paper](https://www.science.org/doi/full/10.1126/sciadv.abk2607)]
 
@@ -1839,7 +1837,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 ---
 
 
-## Benchmark
+## 🚩 Benchmark
 
 - **WebArena**: "Webarena: A realistic web environment for building autonomous agents", `arXiv 2023.07`. [[Paper](https://arxiv.org/abs/2307.13854)]
 
