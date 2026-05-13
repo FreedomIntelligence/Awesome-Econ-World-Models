@@ -28,7 +28,7 @@
   
 - [Blogs and Perspectives](#-blogs-and-perspectives)
 
-- [How We Arrived at Economic World Models](#-economic-world-models)
+- [How We Arrived at Economic World Models](#-how-we-arrived-at-economic-world-models)
   - [Rule-Based Economic Modeling](#-rule-based-economic-modeling)
   - [Feature- and Data-Driven Economic Modeling](#-feature--and-data-driven-economic-modeling)
   - [Prompt- and Context-Based Economic Agents](#-prompt--and-context-based-economic-agents)
