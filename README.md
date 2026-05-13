@@ -159,7 +159,11 @@ Representative works that extend world models from latent RL environments to mul
 To organize existing systems and clarify the path forward, we propose a six-level capability ladder. Moving upward, EconWMs progress from fixed rule-based simulations to adaptive agents, Large language model (LLM)-based autonomous agents, self-evolving agents, evolving economic institutions, and finally sim-to-real economic twins.
 
 <p align="center">
-  <img src="images/levels.png" width="900">
+  <img src="images/levels.png" width="800">
+</p>
+
+<p align="center">
+  <img src="images/levels_literature.png" width="800">
 </p>
 
 ### 🏗️ L1: Fixed Rule-Based Agent Worlds
@@ -176,7 +180,7 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 In this section, we take a historical view how AI for economics arrived at the need to build economic worlds. We argue that the field has moved through five engineering waves from feature, data, prompt, context, and environment engineering.
 
 <p align="center">
-  <img src="images/roadmap.png" width="900">
+  <img src="images/roadmap.png" width="800">
 </p>
 
 ### 📏 Feature Engineering
