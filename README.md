@@ -16,15 +16,15 @@
   <img src="images/econwm.png" width="800">
 </p>
 
-# 📰 News & Updates
+## 📰 News & Updates
 
 Major updates and announcements are shown below. Scroll for full timeline.
 
 - **[2026-03-24] First Release**  
-  Awesome Economic World Models is now live! We're building a comprehensive collection of papers and resources on Economic World Models. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
+  **Awesome Economic World Models** is now live! We're building a comprehensive collection of papers and resources on Economic World Models.
 
 - **[2026-05-13] Major Structural Update**  
-  Removed the original "Economic World Models" section. Added two new sections: **The World-Building Ladder: A Taxonomy of Economic World Models' Capabilities** (L1-L6 capability ladder) and **How We Arrived at Economic World Models** (five engineering waves: Feature, Data, Prompt, Context, and Environment Engineering). Dozens of new papers added across all levels.
+  Removed the original "Economic World Models" section. Added two new sections: **The World-Building Ladder: A Taxonomy of Economic World Models' Capabilities** (L1-L6 capability ladder) and **How We Arrived at Economic World Models** (five engineering waves: Feature, Data, Prompt, Context, and Environment Engineering).
 
 
 ## 🗂️ Table of Contents
