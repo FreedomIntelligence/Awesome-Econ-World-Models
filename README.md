@@ -146,7 +146,7 @@ Representative works that extend world models from latent RL environments to mul
 
 ## 📝 Blogs and Perspectives
 <details>
-<summary><h5> Expand</h5></summary>
+<summary><h5> Details</h5></summary>
 - World Models: Computing the Uncomputable, `2026.03`. [[link]](https://www.notboring.co/p/world-models) [[WeChat repost]](https://mp.weixin.qq.com/s/JY3mpKYyCqnTNdPR2mne0w)
 
 - V-JEPA: The next step toward Yann LeCun’s vision of advanced machine intelligence (AMI), `2024.02`. [[link]](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
