@@ -1859,7 +1859,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 ## 🚩 Benchmark
 <details>
-<summary><h5> Details</h5></summary>
+<summary> Details</summary>
 
 - **WebArena**: "Webarena: A realistic web environment for building autonomous agents", `arXiv 2023.07`. [[Paper](https://arxiv.org/abs/2307.13854)]
 
@@ -1880,7 +1880,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 ## 🛠️ Projects and Platforms
 <details>
-<summary><h5> Details</h5></summary>
+<summary> Details</summary>
 
 - **YuLan-OneSim** — A large-scale LLM-based social simulator that supports code-free scenario construction, distributed execution, and simulations with up to 100K agents across multiple social-science domains.  
   [[Paper]](https://arxiv.org/abs/2505.07581) [[Code]](https://github.com/RUC-GSAI/YuLan-OneSim) [[Docs]](https://ruc-gsai.github.io/YuLan-OneSim/)
