@@ -1794,6 +1794,10 @@ In this section, we take a historical view how AI for economics arrived at the n
 </details>
 
 ## 📱 Applications
+<p align="center">
+  <img src="images/application1.png" width="800">
+</p>
+
 <details>
 <summary><h3 id="-sandbox-for-humans"> 🏢 Sandbox for Humans</h3></summary>
 
