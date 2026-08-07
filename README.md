@@ -1,63 +1,79 @@
-<h1 align="center">Awesome Economic World Models 🌐</h1>
-<p>
-  <a href="https://github.com/FreedomIntelligence/Awesome-Econ-World-Models"><img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg ></a>
-  <!-- <a href="https://github.com/FreedomIntelligence/Awesome-Econ-World-Models"><img src=https://img.shields.io/github/forks/FreedomIntelligence/Awesome-Econ-World-Models.svg?style=social ></a>
-  <a href="https://github.com/FreedomIntelligence/Awesome-Econ-World-Models"><img src=https://img.shields.io/github/stars/FreedomIntelligence/Awesome-Econ-World-Models.svg?style=social ></a>
-  <a href="https://github.com/FreedomIntelligence/Awesome-Econ-World-Models"><img src=https://img.shields.io/github/watchers/FreedomIntelligence/Awesome-Econ-World-Models.svg?style=social ></a>-->
-  A curated collection of papers, projects, and resources on Economic World Models.
-</p>
-
-
-<div align="center" style="margin: 30px 0;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-</div>
+<h1 align="center">Awesome Economic World Models</h1>
 
 <p align="center">
-  <img src="images/econwm.png" width="800">
+  <strong>A curated research map and systems blueprint for building agentic economies.</strong>
 </p>
 
-## 🌟 News & Updates
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://arxiv.org/abs/2608.06020"><img src="https://img.shields.io/badge/arXiv-2608.06020-b31b1b.svg" alt="arXiv"></a>
+  <a href="https://github.com/FreedomIntelligence/Awesome-Economic-World-Models/stargazers"><img src="https://img.shields.io/github/stars/FreedomIntelligence/Awesome-Economic-World-Models?style=flat" alt="GitHub stars"></a>
+  <a href="https://github.com/FreedomIntelligence/Awesome-Economic-World-Models/commits/main"><img src="https://img.shields.io/github/last-commit/FreedomIntelligence/Awesome-Economic-World-Models" alt="Last commit"></a>
+</p>
 
-Major updates and announcements are shown below. Scroll for full timeline.
+<p align="center">
+  <a href="https://arxiv.org/abs/2608.06020">Paper</a> ·
+  <a href="https://economic-world-model.github.io">Project Website</a> ·
+  <a href="https://freedomintelligence.github.io/projects/economic-world-models/">Project Overview</a> ·
+  <a href="https://github.com/FreedomIntelligence/Awesome-Economic-World-Models/issues">Suggest a Resource</a>
+</p>
 
-- 🔥 **[2026-05-13] Major Structural Update**  
-  Removed the original "Economic World Models" section. Added two new sections: **The World-Building Ladder: A Taxonomy of Economic World Models' Capabilities** (L1-L6 capability ladder) and **How We Arrived at Economic World Models** (five engineering waves: Feature, Data, Prompt, Context, and Environment Engineering).
+## Overview
 
-- 📰 **[2026-03-24] First Release**  
-  **Awesome Economic World Models** is now live! We're building a comprehensive collection of papers and resources on Economic World Models.
+An **Economic World Model (EWM)** is a generative economic system in which heterogeneous agents observe, reason, act, interact, and adapt under market and institutional constraints. Their actions are validated, matched, settled, and aggregated into the next economic state, which then feeds back into future beliefs and decisions.
 
+Unlike a conventional predictor, an EWM is an executable economic runtime. It aims to satisfy four engineering desiderata:
 
-## 🗂️ Table of Contents
+- **Endogenous closure:** prices, allocations, risks, and macroeconomic outcomes emerge from agent interactions.
+- **Behavioral fidelity:** agents reflect heterogeneous beliefs, constraints, incentives, and bounded rationality.
+- **Evolving dynamics:** agents, strategies, mechanisms, and institutions can adapt over repeated rollouts.
+- **Reality alignment:** simulated trajectories are monitored and corrected against real-world evidence.
 
+| Research map | Scope |
+|---|---|
+| **7,836** candidate papers | arXiv and UTD24 literature collected from 1950 onward |
+| **737** validated EWM papers | Full-text classification under strict inclusion criteria |
+| **6** capability levels | From fixed-rule agent worlds to sim-to-real economic twins |
+| **5** engineering waves | Feature, data, prompt, context, and environment engineering |
+| **4** system layers | Agents, environments, co-evolution, and real-world alignment |
+
+## Featured Paper
+
+### From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models
+
+**Jiale Han, Xiang Li, Jing Qian, Wenyuan Gu, Pin Gao, Ye Luo, Hongyuan Zha, Dacheng Tao, Benyou Wang, and Lin William Cong**
+
+The paper turns the EWM agenda into an implementation-oriented blueprint. It introduces a six-level capability ladder, a modular runtime architecture, a reusable execution protocol, a layered evaluation stack, and a systematic study of the EWM literature.
+
+[[Paper](https://arxiv.org/abs/2608.06020)] [[PDF](https://arxiv.org/pdf/2608.06020)] [[Project](https://economic-world-model.github.io)]
+
+## News
+
+- **[2026-08-06] Paper release:** *From Economic Agents to Agentic Economies* is available on [arXiv](https://arxiv.org/abs/2608.06020). The repository has been updated to match the latest systems blueprint and literature taxonomy.
+- **[2026-05-13] Taxonomy update:** Introduced the L1-L6 capability ladder and the five-wave engineering path.
+- **[2026-03-24] First release:** Launched the curated Economic World Models research collection.
+
+## Contents
+
+- [Overview](#overview)
+- [Featured Paper](#featured-paper)
 - [Getting Started with World Models](#-getting-started-with-world-models)
-  - [Surveys and Tutorials](#-surveys-and-tutorials)
-  - [General World Models](#-general-world-models)
-  - [Generative and Interactive World Models](#-generative-and-interactive-world-models)
-  
 - [Blogs and Perspectives](#-blogs-and-perspectives)
-
-- [The World-Building Ladder: A Taxonomy of Economic World Models' Capabilities](#-the-world-building-ladder-a-taxonomy-of-economic-world-models-capabilities)
+- [Capability Ladder](#-capability-ladder)
   - [L1: Fixed Rule-Based Agent Worlds](#-l1-fixed-rule-based-agent-worlds)
   - [L2: Adaptive Rule-Based Agent Worlds](#-l2-adaptive-rule-based-agent-worlds)
   - [L3: LLM-Based Autonomous Agent Worlds](#-l3-llm-based-autonomous-agent-worlds)
   - [L4: Self-Evolving Agent Worlds](#-l4-self-evolving-agent-worlds)
   - [L5: Evolving Economic Worlds](#-l5-evolving-economic-worlds)
   - [L6: Sim-to-Real Economic Twins](#-l6-sim-to-real-economic-twins)
-
-- [How We Arrived at Economic World Models](#-how-we-arrived-at-economic-world-models)
-  - [Feature Engineering](#-feature-engineering)
-  - [Data Engineering](#-data-engineering)
-  - [Prompt Engineering](#-prompt-engineering)
-  - [Context Engineering](#-context-engineering)
-  - [Environment Engineering](#-environment-engineering)
-  
-- [Applications](#-applications)
-  - [Sandbox for Humans](#-sandbox-for-humans)
-  - [Economic Brain for Machines](#-economic-brain-for-machines)
-
-- [Benchmark](#-benchmark)
-
-- [Projects and Platforms](#️-projects-and-platforms)
+- [Systems Blueprint](#systems-blueprint)
+- [Engineering Path](#-engineering-path-to-economic-world-models)
+- [Applications](#applications)
+- [Benchmarks](#benchmarks)
+- [Projects and Platforms](#projects-and-platforms)
+- [Contributing](#contributing)
+- [Citation](#citation)
+- [Star History](#star-history)
 
 ---
 
@@ -168,19 +184,34 @@ Representative works that extend world models from latent RL environments to mul
 ---
 </details>
 
-## 🪜 The World-Building Ladder: A Taxonomy of Economic World Models' Capabilities
+## 🪜 Capability Ladder
 
-> An Economic World Model is a generative engine that predicts how an economy moves by modeling how its agents act. It simulates heterogeneous agents’ next actions, aggregates them through economic rules and market mechanisms into the next economic state, and allows both agents and rules to evolve over time.
+The six-level ladder classifies systems by three distinct axes: **agent capability**, **institutional evolution**, and **sim-to-real alignment**. It is an implementation taxonomy rather than a claim of economic or counterfactual validity.
 
-To organize existing systems and clarify the path forward, we propose a six-level capability ladder. Moving upward, EconWMs progress from fixed rule-based simulations to adaptive agents, Large language model (LLM)-based autonomous agents, self-evolving agents, evolving economic institutions, and finally sim-to-real economic twins.
+| Level | Agent capability | Economic world | Real-world link |
+|---|---|---|---|
+| **L1** | Fixed rule-based agents | Fixed rules; endogenous outcomes | Offline |
+| **L2** | Adaptive symbolic or algorithmic agents | Fixed rules | Offline |
+| **L3** | LLM-based agents with beliefs, memory, and reasoning | Fixed rules | Offline |
+| **L4** | Agents persistently acquire strategies, skills, or routines | Fixed rules | Offline |
+| **L5** | Adaptive, autonomous, or self-evolving agents | Institutions and mechanisms evolve endogenously | Offline |
+| **L6** | Running EWM with adaptive components | Internally evolving world | Online correction against real observations |
 
 <p align="center">
   <img src="images/levels.png" width="800">
 </p>
 
+<p align="center"><sub>The EWM capability ladder and its four engineering desiderata.</sub></p>
+
+### Evidence Base
+
+The accompanying survey uses a three-stage pipeline: keyword-based retrieval, recall-oriented title-and-abstract screening, and precision-oriented full-PDF validation and level assignment. Starting from 7,836 deduplicated candidates, the process retains 881 papers for full-text review and validates 737 EWM papers. Borderline and low-confidence cases receive manual author review.
+
 <p align="center">
   <img src="images/levels_literature.png" width="800">
 </p>
+
+<p align="center"><sub>The literature has expanded rapidly, but most work remains concentrated at L1-L3; self-evolving worlds, endogenous institutions, and sim-to-real twins remain rare.</sub></p>
 <details>
 <summary><h3 id="-l1-fixed-rule-based-agent-worlds"> 🏗️ L1: Fixed Rule-Based Agent Worlds</h3></summary>
 
@@ -1676,9 +1707,54 @@ To organize existing systems and clarify the path forward, we propose a six-leve
 ---
 </details>
 
-## 🌐 How We Arrived at Economic World Models
+## Systems Blueprint
 
-In this section, we take a historical view how AI for economics arrived at the need to build economic worlds. We argue that the field has moved through five engineering waves from feature, data, prompt, context, and environment engineering.
+An EWM is best implemented as a modular economic runtime rather than a monolithic predictor. The blueprint separates four connected layers:
+
+1. **Economic agents** — stateful actors with roles, objectives, beliefs, information channels, memory, tools, constraints, and typed action spaces.
+2. **Economic environments** — executable states, feasibility checks, schedulers, mechanisms, settlements, accounting identities, and event logs.
+3. **Agent-environment co-evolution** — controlled updates to beliefs, strategies, skills, mechanisms, and institutional rules based on repeated interaction.
+4. **Real-world alignment** — discrepancy monitoring and bounded correction against empirical, institutional, and safety evidence.
+
+<p align="center">
+  <img src="images/ewm_architecture.png" width="800" alt="Core components of an Economic World Model">
+</p>
+
+<p align="center"><sub>Core components of an Economic World Model.</sub></p>
+
+### Reusable Runtime Protocol
+
+The public execution boundary stays compact while economic mechanisms, validation, logging, adaptation, and alignment remain modular behind it:
+
+```text
+world.reset()
+    -> world.run_agents(state)
+    -> world.step(actions)
+    -> world.coevolve(state, next_state)
+    -> world.align(real_data)
+
+world.log(...) -> world.evaluate(...)
+```
+
+<p align="center">
+  <img src="images/ewm_implementation_protocol.png" width="800" alt="Reusable implementation protocol for Economic World Models">
+</p>
+
+<p align="center"><sub>Specification interfaces, runtime calls, and trajectory-level instrumentation.</sub></p>
+
+### Layered Evaluation
+
+| Layer | What to evaluate | Example metrics |
+|---|---|---|
+| Agents | Role, objective, belief, and constraint consistency | Action validity, belief calibration, behavioral diversity |
+| Environment | Feasibility, clearing, accounting, and settlement | Violation rate, clearing error, settlement correctness |
+| Co-evolution | Productive adaptation without instability | Adaptation gain, drift, recalibration quality |
+| Real-world alignment | Empirical fit and bounded correction | State, price, volume, and volatility errors |
+| Efficiency | Scalability across agents, markets, and horizons | Runtime, memory use, parallel efficiency |
+
+## 🧭 Engineering Path to Economic World Models
+
+The paper traces five complementary engineering waves. Feature and data engineering strengthen how agents perceive and learn from economic signals; prompt and context engineering enable role-conditioned reasoning, memory, retrieval, tools, and reflection; environment engineering turns these capabilities into interactive economic worlds with executable rules, feedback, and real-world alignment.
 
 <p align="center">
   <img src="images/roadmap.png" width="800">
@@ -1793,13 +1869,22 @@ In this section, we take a historical view how AI for economics arrived at the n
 ---
 </details>
 
-## 📱 Applications
+## Applications
+
+EWMs make counterfactual economic reasoning operational across three roles:
+
+| Role | Representative uses |
+|---|---|
+| **Sandbox for human decision-making** | Policy simulation, market stress testing, firm strategy, supply-chain resilience, research, and education |
+| **Tool for LLM agents** | Counterfactual reasoning, long-horizon planning, and safety or deployment evaluation |
+| **RL training environment for LLMs** | Pricing, trading, inventory control, credit allocation, resource planning, and emergent macro-level behavior |
+
 <p align="center">
   <img src="images/application1.png" width="800">
 </p>
 
 <details>
-<summary><h3 id="-sandbox-for-humans"> 🏢 Sandbox for Humans</h3></summary>
+<summary><h3 id="sandbox-for-humans">Sandboxes for Human Decision-Making</h3></summary>
 
 - **LLM Human Replication**: "Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies", `arxiv 2022.08`. [[Paper](https://arxiv.org/abs/2208.10264)]
 
@@ -1840,7 +1925,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 - **LLM Consumption-Savings**: "Consumption and Savings with Large Language Model Agents", `SSRN 2026.02`. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6037936)]
 </details>
 <details>
-<summary><h3 id="-economic-brain-for-machines"> 💻 Economic Brain for Machines</h3></summary>
+<summary><h3 id="tools-and-training-environments-for-ai-agents">Tools and Training Environments for AI Agents</h3></summary>
 
 - **The AI Economist**: "Taxation Policy Design via Two-level Deep Multiagent Reinforcement Learning", `Science Advances 2022.05`. [[Paper](https://www.science.org/doi/full/10.1126/sciadv.abk2607)]
 
@@ -1866,12 +1951,12 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 - **SWF Leaderboard**: "Social Welfare Function Leaderboard: When LLM Agents Allocate Social Welfare", `arxiv 2025.10`. [[Paper](https://arxiv.org/abs/2510.01164)]
 
-- **RISE**: "RISE: Self-Improving Robot Policy with Compositional World Model", `arxiv 2026.02`. [[Paper](https://arxiv.org/abs/2602.11075)[Project](https://opendrivelab.com/kai0-rl/)]
+- **RISE**: "RISE: Self-Improving Robot Policy with Compositional World Model", `arXiv 2026.02`. [[Paper](https://arxiv.org/abs/2602.11075)] [[Project](https://opendrivelab.com/kai0-rl/)]
 
 ---
 </details>
 
-## 🚩 Benchmark
+## Benchmarks
 <details>
 <summary> Details</summary>
 
@@ -1892,7 +1977,7 @@ In this section, we take a historical view how AI for economics arrived at the n
 ---
 </details>
 
-## 🛠️ Projects and Platforms
+## Projects and Platforms
 <details>
 <summary> Details</summary>
 
@@ -1912,3 +1997,41 @@ In this section, we take a historical view how AI for economics arrived at the n
 
 ---
 </details>
+
+## Contributing
+
+Contributions are welcome through [issues](https://github.com/FreedomIntelligence/Awesome-Economic-World-Models/issues) and pull requests. To keep the collection precise, a proposed EWM paper should provide concrete evidence for all four conditions below:
+
+1. It models an economic, financial, market, institutional, or resource-allocation world.
+2. It contains heterogeneous, interacting economic agents.
+3. It models repeated interaction or dynamic economic state transitions.
+4. It generates key economic outcomes endogenously through agent interactions.
+
+When suggesting a paper, please include its title, publication venue and date, canonical URL, proposed capability level, and a short evidence-based justification. Pure forecasting, single-agent optimization, static games, or generic non-economic simulations should not be added unless they satisfy the complete EWM definition.
+
+## Citation
+
+If this repository or taxonomy supports your research, please cite the accompanying paper.
+
+**APA**
+
+> Han, J., Li, X., Qian, J., Gu, W., Gao, P., Luo, Y., Zha, H., Tao, D., Wang, B., & Cong, L. W. (2026). *From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models*. arXiv preprint arXiv:2608.06020. https://doi.org/10.48550/arXiv.2608.06020
+
+**BibTeX**
+
+```bibtex
+@article{han2026economic,
+  title   = {From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models},
+  author  = {Han, Jiale and Li, Xiang and Qian, Jing and Gu, Wenyuan and Gao, Pin and Luo, Ye and Zha, Hongyuan and Tao, Dacheng and Wang, Benyou and Cong, Lin William},
+  journal = {arXiv preprint arXiv:2608.06020},
+  year    = {2026},
+  doi     = {10.48550/arXiv.2608.06020},
+  url     = {https://arxiv.org/abs/2608.06020}
+}
+```
+
+## Star History
+
+[![Star History Chart](images/star-history.svg)](https://www.star-history.com/#FreedomIntelligence/Awesome-Economic-World-Models&Date)
+
+<p align="center"><sub>Static snapshot generated from GitHub stargazer timestamps on 2026-08-08. Click the chart to open Star History.</sub></p>
