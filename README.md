@@ -1880,7 +1880,7 @@ EWMs make counterfactual economic reasoning operational across three roles:
 | **RL training environment for LLMs** | Pricing, trading, inventory control, credit allocation, resource planning, and emergent macro-level behavior |
 
 <p align="center">
-  <img src="images/application1.png" width="800">
+  <img src="images/application2.png" width="800">
 </p>
 
 <details>
