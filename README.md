@@ -823,8 +823,6 @@ The accompanying survey uses a three-stage pipeline: keyword-based retrieval, re
 
 - **Laxity EV Charging MAS**: "A Multi-Agent, Laxity-Based Aggregation Strategy for Cost-Effective Electric Vehicle Charging and Local Transformer Overload Prevention", `arXiv 2025.04`. [[Paper](https://arxiv.org/abs/2504.17575v1)]
 
-- **EconGym**: "EconGym: A Scalable AI Testbed with Diverse Economic Tasks", `arXiv 2025.06`. [[Paper](https://arxiv.org/abs/2506.12110v1)]
-
 - **EV Charging Visualization**: "A Visualization Framework for Exploring Multi-Agent-Based Simulations Case Study of an Electric Vehicle Home Charging Ecosystem", `arXiv 2025.06`. [[Paper](https://arxiv.org/abs/2506.20400v1)]
 
 - **Two-Company GA Resource**: "Strategies for Resource Allocation of Two Competing Companies using Genetic Algorithm", `arXiv 2025.07`. [[Paper](https://arxiv.org/abs/2507.02952v1)]
@@ -1684,6 +1682,8 @@ The accompanying survey uses a three-stage pipeline: keyword-based retrieval, re
 - **TaxAgent**: "TaxAgent: How Large Language Model Designs Fiscal Policy", `arXiv 2025.06`. [[Paper](https://arxiv.org/abs/2506.02838v1)]
 
 - **Free-Riders Public-Goods LLMs**: "Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games", `arXiv 2025.06`. [[Paper](https://arxiv.org/abs/2506.23276v2)]
+
+- **EconGym**: "EconGym: A Scalable AI Testbed with Diverse Economic Tasks", `arXiv 2025.06`. [[Paper](https://arxiv.org/abs/2506.12110v1)]
 
 - **LLM Double-Auction Collusion**: "Evaluating LLM Agent Collusion in Double Auctions", `arXiv 2025.07`. [[Paper](https://arxiv.org/abs/2507.01413v1)]
 
