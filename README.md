@@ -49,6 +49,7 @@ The paper turns the EWM agenda into an implementation-oriented blueprint. It int
 
 ## News
 
+- **[2026-08-23] Paper accepted:** Our paper *WonderEcon: An Interactive LLM-Agent System for Simulating Economies* has been accepted to the **EMNLP 2026 Demo Track**. See [Planet-300894/WonderEcon](https://github.com/Planet-300894/WonderEcon) for details.
 - **[2026-08-06] Paper release:** *From Economic Agents to Agentic Economies* is available on [arXiv](https://arxiv.org/abs/2608.06020). The repository has been updated to match the latest systems blueprint and literature taxonomy.
 - **[2026-05-13] Taxonomy update:** Introduced the L1-L6 capability ladder and the five-wave engineering path.
 - **[2026-03-24] First release:** Launched the curated Economic World Models research collection.
